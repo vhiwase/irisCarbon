@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Created by Sigma Conso, Powered by IRIS Carbon-->
+<xsd:schema xmlns:ifrs-full="http://xbrl.ifrs.org/taxonomy/2020-03-16/ifrs-full" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:ref="http://www.xbrl.org/2006/ref" xmlns:negated="http://www.xbrl.org/2009/role/negated" xmlns:num="http://www.xbrl.org/dtr/type/numeric" xmlns:nonnum="http://www.xbrl.org/dtr/type/non-numeric" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xl="http://www.xbrl.org/2003/XLink" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:esef_cor="http://www.esma.europa.eu/taxonomy/2020-03-16/esef_cor" xmlns:bpost="http://www.bpost.be/xbrl/2020" elementFormDefault="qualified" attributeFormDefault="unqualified" targetNamespace="http://www.bpost.be/xbrl/2020">
+  <xsd:annotation>
+    <xsd:appinfo>
+      <link:linkbaseRef xlink:type="simple" xlink:href="529900CQ5X4PTEPSZW88-2020-12-31_pre.xml" xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" />
+      <link:linkbaseRef xlink:type="simple" xlink:href="529900CQ5X4PTEPSZW88-2020-12-31_cal.xml" xlink:role="http://www.xbrl.org/2003/role/calculationLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" />
+      <link:linkbaseRef xlink:type="simple" xlink:href="529900CQ5X4PTEPSZW88-2020-12-31_def.xml" xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" />
+      <link:linkbaseRef xlink:type="simple" xlink:href="529900CQ5X4PTEPSZW88-2020-12-31_lab-en.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" />
+      <link:roleType roleURI="http://www.bpost.be/xbrl/role/MandatoryTags" id="MandatoryTags">
+        <link:definition>0000 - Document - Mandatory Tags</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.bpost.be/xbrl/role/ConsolidatedIncomeStatement" id="ConsolidatedIncomeStatement">
+        <link:definition>0010 - Statement - Consolidated  Income Statement</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.bpost.be/xbrl/role/Consolidatedstatementofcomprehensiveincome" id="Consolidatedstatementofcomprehensiveincome">
+        <link:definition>0020 - Statement - Consolidated statement of comprehensive income</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.bpost.be/xbrl/role/ConsolidatedstatementofcomprehensiveincomeParenthetical" id="ConsolidatedstatementofcomprehensiveincomeParenthetical">
+        <link:definition>0025 - Statement - Consolidated statement of comprehensive income (Parenthetical)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.bpost.be/xbrl/role/Consolidatedstatementfinancialposition" id="Consolidatedstatementfinancialposition">
+        <link:definition>0030 - Statement - Consolidated statement financial position</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.bpost.be/xbrl/role/Consolidatedstatementofchangesinequity" id="Consolidatedstatementofchangesinequity">
+        <link:definition>0040 - Statement - Consolidated statement of changes in equity</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.bpost.be/xbrl/role/ConsolidatedstatementofchangesinequityShareholdingofbpost" id="ConsolidatedstatementofchangesinequityShareholdingofbpost">
+        <link:definition>0045 - Statement - Consolidated statement of changes in equity (Shareholding of bpost)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.bpost.be/xbrl/role/ConsolidatedstatementofchangesinequityDistributionsMadeandProposed" id="ConsolidatedstatementofchangesinequityDistributionsMadeandProposed">
+        <link:definition>0046 - Statement - Consolidated statement of changes in equity (Distributions Made and Proposed)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.bpost.be/xbrl/role/Consolidatedstatementofcashflows" id="Consolidatedstatementofcashflows">
+        <link:definition>0050 - Statement - Consolidated statement of cash flows</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.bpost.be/xbrl/role/Anchoring" id="Anchoring">
+        <link:definition>2000 - Anchoring - ANCHORING</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+    </xsd:appinfo>
+  </xsd:annotation>
+  <xsd:import namespace="http://www.esma.europa.eu/taxonomy/2020-03-16/esef_cor" schemaLocation="http://www.esma.europa.eu/taxonomy/2020-03-16/esef_cor.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/2003/XLink" schemaLocation="http://www.xbrl.org/2003/xl-2003-12-31.xsd" />
+  <xsd:import namespace="http://www.w3.org/1999/xlink" schemaLocation="http://www.xbrl.org/2003/xlink-2003-12-31.xsd" />
+  <xsd:import namespace="http://xbrl.org/2005/xbrldt" schemaLocation="http://www.xbrl.org/2005/xbrldt-2005.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/dtr/type/non-numeric" schemaLocation="http://www.xbrl.org/dtr/type/nonNumeric-2009-12-16.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/dtr/type/numeric" schemaLocation="http://www.xbrl.org/dtr/type/numeric-2009-12-16.xsd" />
+  <xsd:element name="IncomeTaxesPaidRefundOnPreviousYearsClassifiedAsOperatingActivities" id="bpost_IncomeTaxesPaidRefundOnPreviousYearsClassifiedAsOperatingActivities" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:balance="credit" xbrli:periodType="duration" />
+  <xsd:element name="InterimDividendPaid" id="bpost_InterimDividendPaid" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:balance="debit" xbrli:periodType="duration" />
+  <xsd:element name="InterimDividendPaidToShareholdersClassifiedAsFinancingActivities" id="bpost_InterimDividendPaidToShareholdersClassifiedAsFinancingActivities" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:balance="credit" xbrli:periodType="duration" />
+  <xsd:element name="DistributableRetainedEarnings" id="bpost_DistributableRetainedEarnings" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:balance="credit" xbrli:periodType="instant" />
+  <xsd:element name="FinalDividendPaidForPriorYear" id="bpost_FinalDividendPaidForPriorYear" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:balance="debit" xbrli:periodType="duration" />
+  <xsd:element name="FinalDividendPaidForPriorYearPerShare" id="bpost_FinalDividendPaidForPriorYearPerShare" type="num:perShareItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:periodType="duration" />
+  <xsd:element name="InterimDividendPaidPerShare" id="bpost_InterimDividendPaidPerShare" type="num:perShareItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:periodType="duration" />
+  <xsd:element name="ServicesAndOtherGoodsExpense" id="bpost_ServicesAndOtherGoodsExpense" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:balance="debit" xbrli:periodType="duration" />
+  <xsd:element name="LongTermBorrowingsAndNonCurrentLeaseLiabilities" id="bpost_LongTermBorrowingsAndNonCurrentLeaseLiabilities" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:balance="credit" xbrli:periodType="instant" />
+  <xsd:element name="IncomeTaxesPaidRefundOnCurrentYearClassifiedAsOperatingActivities" id="bpost_IncomeTaxesPaidRefundOnCurrentYearClassifiedAsOperatingActivities" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:balance="credit" xbrli:periodType="duration" />
+  <xsd:element name="RestrictedSharesMember" id="bpost_RestrictedSharesMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" nillable="true" abstract="true" xbrli:periodType="duration" />
+  <xsd:element name="UnrestrictedSharesMember" id="bpost_UnrestrictedSharesMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" nillable="true" abstract="true" xbrli:periodType="duration" />
+  <xsd:element name="CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowingsCurrentLeaseLiabilities" id="bpost_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowingsCurrentLeaseLiabilities" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:balance="credit" xbrli:periodType="instant" />
+  <xsd:element name="OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslationAttributableToMovementsOfIntangibleAssetsIncludingGoodwill" id="bpost_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslationAttributableToMovementsOfIntangibleAssetsIncludingGoodwill" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:balance="credit" xbrli:periodType="duration" />
+  <xsd:element name="OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslationAttributableToMovementsOfGoodwill" id="bpost_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslationAttributableToMovementsOfGoodwill" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:balance="credit" xbrli:periodType="duration" />
+  <xsd:element name="ReservesOfNonFinancialAssetsHeldForSale" id="bpost_ReservesOfNonFinancialAssetsHeldForSale" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:balance="credit" xbrli:periodType="instant" />
+  <xsd:element name="ChangesInEquityPercentage" id="bpost_ChangesInEquityPercentage" type="num:percentItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:periodType="duration" />
+  <xsd:element name="AdjustmentsForRemeasurementOfAssetsHeldForSaleAtFairValueLessCostsToSell" id="bpost_AdjustmentsForRemeasurementOfAssetsHeldForSaleAtFairValueLessCostsToSell" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" nillable="true" abstract="false" xbrli:balance="debit" xbrli:periodType="duration" />
+</xsd:schema>

@@ -1,0 +1,1327 @@
+{
+    "0": {
+        "attrs": {
+            "contextref": "I20210630_MinimumMember_RevenueRemainingPerformanceObligationExpectedTimingOfSatisfactionStartDateAxis.domain_01-01-2019",
+            "name": "us-gaap:RevenueRemainingPerformanceObligationExpectedTimingOfSatisfactionPeriod1",
+            "id": "Tag916",
+            "format": "ixt-sec:duryear"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "1"
+    },
+    "1": {
+        "attrs": {
+            "contextref": "D20210630_MinimumMember",
+            "name": "cybe:ProductWarrantiesTimeFrame",
+            "id": "Tag918",
+            "format": "ixt-sec:duryear"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "1"
+    },
+    "2": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntityAddressStateOrProvince",
+            "id": "Tag925",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "MN"
+    },
+    "3": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntityEmergingGrowthCompany",
+            "id": "Tag926",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "false"
+    },
+    "4": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntitySmallBusiness",
+            "id": "Tag927",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "true"
+    },
+    "5": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntityRegistrantName",
+            "id": "Tag928",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "CYBEROPTICS CORP"
+    },
+    "6": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:CurrentFiscalYearEndDate",
+            "id": "Tag929",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "--12-31"
+    },
+    "7": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:DocumentFiscalPeriodFocus",
+            "id": "Tag930",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "Q2"
+    },
+    "8": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:AmendmentFlag",
+            "id": "Tag931",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "false"
+    },
+    "9": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:DocumentFiscalYearFocus",
+            "id": "Tag932",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "2021"
+    },
+    "10": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntityCentralIndexKey",
+            "id": "Tag933",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "0000768411"
+    },
+    "11": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntityShellCompany",
+            "id": "Tag934",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "false"
+    },
+    "12": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:SecurityExchangeName",
+            "id": "Tag940",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "NASDAQ"
+    },
+    "13": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:DocumentTransitionReport",
+            "id": "Tag941",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "false"
+    },
+    "14": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:DocumentQuarterlyReport",
+            "id": "Tag942",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "true"
+    },
+    "15": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntityIncorporationStateCountryCode",
+            "id": "Tag943",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "MN"
+    },
+    "16": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntityFilerCategory",
+            "id": "Tag944",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "Non-accelerated Filer"
+    },
+    "17": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:DocumentType",
+            "id": "Tag613",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "10-Q"
+    },
+    "18": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:DocumentPeriodEndDate",
+            "id": "Tag30",
+            "format": "ixt:datemonthdayyearen"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "June 30, 2021"
+    },
+    "19": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntityFileNumber",
+            "id": "Tag646",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "0-16577"
+    },
+    "20": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntityTaxIdentificationNumber",
+            "id": "Tag567",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "41-1472057"
+    },
+    "21": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntityAddressAddressLine1",
+            "id": "Tag648",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "5900 Golden Hills Drive"
+    },
+    "22": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntityAddressCityOrTown",
+            "id": "Tag655",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "MINNEAPOLIS"
+    },
+    "23": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntityAddressPostalZipCode",
+            "id": "Tag710",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "55416"
+    },
+    "24": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:CityAreaCode",
+            "id": "Tag352",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "(763)"
+    },
+    "25": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:LocalPhoneNumber",
+            "id": "Tag417",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "542-5000"
+    },
+    "26": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:Security12bTitle",
+            "id": "Tag568",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "Common Stock, no par value"
+    },
+    "27": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:TradingSymbol",
+            "id": "Tag570",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "CYBE\u00a0"
+    },
+    "28": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntityCurrentReportingStatus",
+            "id": "Tag544",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "Yes"
+    },
+    "29": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "dei:EntityInteractiveDataCurrent",
+            "id": "Tag588",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "Yes"
+    },
+    "30": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:OrganizationConsolidationAndPresentationOfFinancialStatementsDisclosureAndSignificantAccountingPoliciesTextBlock",
+            "id": "Tag445",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n1. INTERIM REPORTING:\n\nThe interim condensed consolidated financial statements of CyberOptics\u00a0Corporation and its wholly-owned subsidiaries (\"we\", \"us\" or \"our\") presented herein as of June 30, 2021, and for the three and six month periods ended June 30, 2021 and\u00a02020, are unaudited but, in the opinion of management, include all adjustments, consisting of normal recurring adjustments necessary, for a fair presentation of financial position, results of operations and cash flows for the periods presented.\n\nThe results of operations for the\u00a0three and six month periods ended June 30, 2021 do not necessarily indicate the results to be expected for the full year. The December 31, 2020 consolidated balance sheet data was derived from audited consolidated financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States of America (\"U.S. GAAP\"). The unaudited interim condensed consolidated financial statements should be read in conjunction with our consolidated financial statements and notes thereto contained in our Annual Report on Form 10-K for the year ended December 31, 2020.\n"
+    },
+    "31": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:UnusualOrInfrequentItemsDisclosureTextBlock",
+            "id": "Tag729",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n2. COVID-19 PANDEMIC:\n\nEffect of Covid-19 Outbreak on Business Operations\n\nA novel strain of coronavirus (\"Covid-19\") was first identified in December 2019, and in March 2020, the World Health Organization categorized Covid-19\u00a0as a pandemic. The Covid-19 pandemic is affecting our customers, suppliers, service providers and employees to varying degrees, and the ultimate impacts of Covid-19, including the potential impact of known and future variants, on our business, results of operations, liquidity and prospects are not fully known at this time.\u00a0The\u00a0Covid-19\u00a0outbreak has not had a significant impact on our business to date. However, the following factors have affected and may continue to affect our business:\n\u00a0\n\n\n\n\n\u00b7\nOur key factories are located in Minnesota and Singapore. Both of these locations have been subject to government mandated shelter-in-place orders. Because our operations have been deemed essential, we were able to keep our factories up and running while the shelter-in-place mandates were in effect. If the pandemic worsens, it is possible that our operations may not be deemed essential under future government mandated shelter-in-place orders, and we may be required to shut-down factory operations. We have periodically implemented split-shifts for our factory operations to minimize the number of employees in our facilities at any given time, but these measures have not affected our production capacity. Since the start of the pandemic, many of our non-factory employees have spent the majority of their time working remotely.\u00a0To date, the shelter-in-place mandates and remote work arrangements have had a minimal impact on operations, but material negative effects on our business could result if the pandemic worsens and continues for an extended period of time.\n\n\n\n\u00a0\n\n\n\u00b7\nSales of some products, mainly our SQ3000\u00a0Multi-Function systems and MX memory module inspection products, require customer acceptance due to performance or other criteria that is considered more than a formality. Most of our customer\u2019s factories have remained open during the\u00a0Covid-19\u00a0pandemic because they are deemed to be essential under government shelter-in-place mandates. However, global travel restrictions and quarantine measures have hindered our ability to obtain customer acceptances of certain products at various times in 2020. Continuing or new global travel restrictions and quarantine measures could hinder our ability to obtain customer acceptances in a timely manner in the future, and therefore impact the timing of revenue recognition.\n\n\n\n\u00a0\n\n\n\u00b7\nWe have experienced some supply disruptions due to the\u00a0Covid-19\u00a0pandemic, mainly from suppliers not deemed essential by shelter-in-place mandates in certain countries. Key supply chain disruptions have been resolved to date. However, supply chain disruptions could increase significantly if the pandemic worsens and continues for an extended period of time. To date, our on-hand inventories have been sufficient to enable us to mitigate supply disruptions.\u00a0\n\n\n\n\n\nAlthough we cannot estimate the continuing impact of the Covid-19 outbreak at this time, it may have an adverse effect on our results of future operations, financial position and liquidity for the remainder of 2021 and beyond.\u00a0\n\n\n\n\n\n\n6\n\n\n\n\n\n\n\n\nUnited States Covid-19 Relief Legislation\u00a0\u00a0\n\nOn March 27, 2020, the Coronavirus Aid, Relief and Economic Security Act (the \"CARES Act\") was signed into law in the United States. The CARES Act, among\u00a0other things, includes provisions relating to refundable payroll tax credits, deferment of employer side social security payments, net operating loss carryback\u00a0periods and alternative tax credit refunds. The CARES Act also appropriated funds for the Small Business Administration Paycheck Protection Program loans that are forgivable in certain circumstances to promote continued employment. Additional relief packages were passed in December 2020 and March 2021. We have analyzed these pieces of legislation and presently do not believe they will have a material impact on our financial condition, results of operations or liquidity. However, we will continue to monitor the impact these pieces of legislation could have on our business in the future.\n\nSingapore Jobs Support Program\n\nThe Singapore Government implemented a jobs support program in 2020 that was intended to support businesses and encourage retention of employees during the\u00a0period of economic uncertainty caused by the Covid-19 pandemic. Under the jobs support program, the Singapore Government co-funded a portion of the gross monthly wages paid to local employees, which reduced our operating expenses\u00a0in the three and six months ended June 30, 2020 by $276,000 and $295,000, respectively.\u00a0We did not receive any material benefit from the Singapore jobs support program in the three or six months ended June 30, 2021, nor do we expect to receive any material benefits in future periods.\u00a0\n\n"
+    },
+    "32": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:NewAccountingPronouncementsAndChangesInAccountingPrinciplesTextBlock",
+            "id": "Tag212",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n3. RECENT ACCOUNTING DEVELOPMENTS:\u00a0\n\n\nIn June 2016, the FASB issued ASU No. 2016-13, Measurement\u00a0of Credit Losses on Financial Instruments,\u00a0which revises guidance for the accounting for credit losses on financial instruments within its scope, and in November 2018, issued ASU No. 2018-19, which amended the standard. The new standard introduces\u00a0an approach to estimating credit losses that is based on expected losses (referred to as the current expected credit losses model), and applies to most financial assets measured\u00a0at amortized cost and certain other instruments, including available-for-sale marketable debt securities, trade and other receivables. The new standard is effective for us on January 1, 2023, with early adoption permitted. We are required to apply the standard's provisions as a cumulative-effect adjustment to retained earnings as of the beginning\u00a0of the first reporting period in which the guidance is adopted. We presently\u00a0do not believe the new standard will have a material impact on our consolidated financial\u00a0statements.\u00a0\n\nNo other new accounting pronouncements are expected to have a significant impact on our consolidated financial statements.\u00a0\n\n"
+    },
+    "33": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:NewAccountingPronouncementsPolicyPolicyTextBlock",
+            "id": "Tag215",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\nIn June 2016, the FASB issued ASU No. 2016-13, Measurement\u00a0of Credit Losses on Financial Instruments,\u00a0which revises guidance for the accounting for credit losses on financial instruments within its scope, and in November 2018, issued ASU No. 2018-19, which amended the standard. The new standard introduces\u00a0an approach to estimating credit losses that is based on expected losses (referred to as the current expected credit losses model), and applies to most financial assets measured\u00a0at amortized cost and certain other instruments, including available-for-sale marketable debt securities, trade and other receivables. The new standard is effective for us on January 1, 2023, with early adoption permitted. We are required to apply the standard's provisions as a cumulative-effect adjustment to retained earnings as of the beginning\u00a0of the first reporting period in which the guidance is adopted. We presently\u00a0do not believe the new standard will have a material impact on our consolidated financial\u00a0statements.\u00a0\n\nNo other new accounting pronouncements are expected to have a significant impact on our consolidated financial statements.\u00a0\n"
+    },
+    "34": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:RevenueFromContractWithCustomerTextBlock",
+            "id": "Tag840",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n4. REVENUE RECOGNITION:\n\nOur revenue\u00a0performance obligations are primarily satisfied at a point in time and limited revenue streams are satisfied over time as work progresses. \n\n\n\n\nThe following is a summary of our revenue performance obligations:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThree Months Ended June 30, 2021\n\nThree Months Ended June 30, 2020\n\n\n\n(In thousands except percentages)\n\n\nRevenues\n\nPercent of Revenues\n\n\nRevenues\n\n\n\nPercent of Revenues\n\n\n\n\n Revenue recognized over time \n\n\n$\n695\n\n2.8\n\n % \n\n\n\n $ \n\n\n362\n\n\n\n2.3\n\n\n % \n\n\n\n\n Revenue recognized at a point in time \n\n\n\n24,509\n\n97.2\n%\n\n\n\n15,634\n\n\n\n97.7\n\n\n % \n\n\n\n\n\n$\n25,204\n\n100.0\n%\n\n\n $ \n\n\n15,996\n\n\n\n100.0\n\n\n % \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSix Months Ended June 30, 2021\n\nSix Months Ended June 30, 2020\n\n\n\n(In thousands except percentages)\n\n\nRevenues\n\nPercent of Revenues\n\n\nRevenues\n\n\n\nPercent of Revenues\n\n\n\n\n Revenue recognized over time \n\n\n$\n 1,098 \n\n 2.6 \n\n % \n\n\n\n $ \n\n\n 555 \n\n\n\n 1.7 \n\n\n % \n\n\n\n\n Revenue recognized at a point in time \n\n\n\n 41,838 \n\n 97.4 \n%\n\n\n\n 31,870 \n\n\n\n 98.3 \n\n\n % \n\n\n\n\n\n$\n 42,936 \n\n 100.0 \n%\n\n\n $ \n\n\n 32,425 \n\n\n\n 100.0 \n\n\n % \n\n\n\n\n\n\n\n\n\n\n\n\nSee Note 11 for additional information regarding disaggregation of revenue.\n\n\n\n\n\n\n\n7\n\n\n\n\n\n\n\n\nContract Balances\n\n Contract assets consist of unbilled amounts from sales where we recognize the revenue over time and the revenue recognized exceeds the amount billed to the customer at a point in time. Accounts and trade notes receivable are recorded when the right to payment becomes unconditional. Contract liabilities consist of payments received in advance of performance under the contract. Contract liabilities are recognized as revenue when we perform under the contract.\u00a0\u00a0\n\nThe following summarizes our contract assets and contract liabilities:\u00a0 \u00a0\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(In thousands)\n\n\n\nJune 30, \n2021\n\n\n\nDecember 31,\n2020\n\n\n\n\n Contract assets, included in other current assets \n\n\n\n $ \n\n\n 18 \n\n\n \u00a0 \n\n\n\n $ \n\n\n \u00a02 \n\n\n \u00a0 \n\n\n\n\n Contract liabilities - advance customer payments \n\n\n\n $ \n\n\n653\n\n\n \u00a0 \n\n\n\n $ \n\n\n567\n\n\n \u00a0 \n\n\n\nContract liabilities - deferred warranty revenue\u00a0\n\n$\n391\n\n\n$\n344\n\n\n\n\n\n\n\n\n\n\n\nChanges in contract assets in the six months ended June 30, 2021\u00a0and the six months ended June 30, 2020 resulted from unbilled amounts under sensor product arrangements and longer duration 3D scanning service projects in which revenue is recognized over time. Changes in contract liabilities primarily resulted from reclassification of beginning contract liabilities to revenue as performance obligations were satisfied or from cash received in advance and not recognized as revenue.\u00a0See Note 9 for changes in contractual obligations related to deferred warranty revenue. Unsatisfied performance obligations for deferred warranty revenue are generally expected to be recognized as revenue over the next one to three years. There were no impairment losses for contract assets in the six months ended June 30, 2021\u00a0or the six months ended June 30, 2020.\u00a0\n\n\n\nThe following summarizes the amounts reclassified from beginning contract liabilities to revenue:\u00a0\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThree Months Ended June 30,\n\nSix Months Ended June 30,\n\n\n(In thousands)\n\n2021\n\n2020\n\n2021\n\n2020\n\n\n\n Amounts reclassified from beginning contract liabilities to revenue \n\n\n$\n120\n\n\n$\n55\n\n\n$\n345\n\n\n$\n95\n\n\n\nAmounts reclassified from deferred warranty revenue\n\n\n98\n\n\n\n83\n\n\n\n161\n\n\n\n183\n\n\n\nTotal\u00a0\n\n$\n218\n\n\n$\n138\n\n\n$\n506\n\n\n$\n278\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "35": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:DisaggregationOfRevenueTableTextBlock",
+            "id": "Tag608",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n\nThe following is a summary of our revenue performance obligations:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThree Months Ended June 30, 2021\n\nThree Months Ended June 30, 2020\n\n\n\n(In thousands except percentages)\n\n\nRevenues\n\nPercent of Revenues\n\n\nRevenues\n\n\n\nPercent of Revenues\n\n\n\n\n Revenue recognized over time \n\n\n$\n695\n\n2.8\n\n % \n\n\n\n $ \n\n\n362\n\n\n\n2.3\n\n\n % \n\n\n\n\n Revenue recognized at a point in time \n\n\n\n24,509\n\n97.2\n%\n\n\n\n15,634\n\n\n\n97.7\n\n\n % \n\n\n\n\n\n$\n25,204\n\n100.0\n%\n\n\n $ \n\n\n15,996\n\n\n\n100.0\n\n\n % \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSix Months Ended June 30, 2021\n\nSix Months Ended June 30, 2020\n\n\n\n(In thousands except percentages)\n\n\nRevenues\n\nPercent of Revenues\n\n\nRevenues\n\n\n\nPercent of Revenues\n\n\n\n\n Revenue recognized over time \n\n\n$\n 1,098 \n\n 2.6 \n\n % \n\n\n\n $ \n\n\n 555 \n\n\n\n 1.7 \n\n\n % \n\n\n\n\n Revenue recognized at a point in time \n\n\n\n 41,838 \n\n 97.4 \n%\n\n\n\n 31,870 \n\n\n\n 98.3 \n\n\n % \n\n\n\n\n\n$\n 42,936 \n\n 100.0 \n%\n\n\n $ \n\n\n 32,425 \n\n\n\n 100.0 \n\n\n % \n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "36": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ContractWithCustomerAssetAndLiabilityTableTextBlock",
+            "id": "Tag563",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\nThe following summarizes our contract assets and contract liabilities:\u00a0 \u00a0\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(In thousands)\n\n\n\nJune 30, \n2021\n\n\n\nDecember 31,\n2020\n\n\n\n\n Contract assets, included in other current assets \n\n\n\n $ \n\n\n 18 \n\n\n \u00a0 \n\n\n\n $ \n\n\n \u00a02 \n\n\n \u00a0 \n\n\n\n\n Contract liabilities - advance customer payments \n\n\n\n $ \n\n\n653\n\n\n \u00a0 \n\n\n\n $ \n\n\n567\n\n\n \u00a0 \n\n\n\nContract liabilities - deferred warranty revenue\u00a0\n\n$\n391\n\n\n$\n344\n\n\n\n\n\n\n\n\n\n"
+    },
+    "37": {
+        "attrs": {
+            "contextref": "I20210630_MaximumMember_RevenueRemainingPerformanceObligationExpectedTimingOfSatisfactionStartDateAxis.domain_01-01-2019",
+            "name": "us-gaap:RevenueRemainingPerformanceObligationExpectedTimingOfSatisfactionPeriod1",
+            "id": "Tag665",
+            "format": "ixt-sec:durwordsen"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "three years"
+    },
+    "38": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "cybe:ScheduleOfAmountsReclassifiedFromBeginningContractLiabilitiesToRevenueTableTextBlock",
+            "id": "Tag51",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\nThe following summarizes the amounts reclassified from beginning contract liabilities to revenue:\u00a0\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThree Months Ended June 30,\n\nSix Months Ended June 30,\n\n\n(In thousands)\n\n2021\n\n2020\n\n2021\n\n2020\n\n\n\n Amounts reclassified from beginning contract liabilities to revenue \n\n\n$\n120\n\n\n$\n55\n\n\n$\n345\n\n\n$\n95\n\n\n\nAmounts reclassified from deferred warranty revenue\n\n\n98\n\n\n\n83\n\n\n\n161\n\n\n\n183\n\n\n\nTotal\u00a0\n\n$\n218\n\n\n$\n138\n\n\n$\n506\n\n\n$\n278\n\n\n\n\n\n\n\n\n"
+    },
+    "39": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:InvestmentsInDebtAndMarketableEquitySecuritiesAndCertainTradingAssetsDisclosureTextBlock",
+            "id": "Tag489",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n5. MARKETABLE SECURITIES:\n\n\nOur investments in marketable securities are classified as available-for-sale and consist of the following:\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n June 30, 2021\n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n Cost \n\n\n \u00a0 \n\n\n UnrealizedGains \n\n\n \u00a0 \n\n\n UnrealizedLosses \n\n\n \u00a0 \n\n\n Fair Value \n\n\n\n\n Short-Term \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n U.S. government and agency obligations \n\n\n \u00a0 \n\n\n $ \n\n\n 3,332 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 20 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n $ \n\n\n 3,352 \n\n\n \u00a0 \n\n\n\n\n Corporate debt securities and certificates of deposit \n\n\n \u00a0 \n\n\n 3,882 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 15 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n 3,897 \n\n\n \u00a0 \n\n\n\n\n Marketable securities \u2013 short-term \n\n\n \u00a0 \n\n\n $ \n\n\n 7,214 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 35 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n $ \n\n\n 7,249 \n\n\n \u00a0 \n\n\n\n\n Long-Term \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n U.S. government and agency obligations \n\n\n \u00a0 \n\n\n $ \n\n\n 9,094 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 30 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n(10\n\n)\n\n \u00a0 \n\n\n $ \n\n\n 9,114 \n\n\n \u00a0 \n\n\n\n\n Corporate debt securities and certificates of deposit \n\n\n \u00a0 \n\n\n 3,452 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 27 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(1\n\n)\n\n \u00a0 \n\n\n 3,478 \n\n\n \u00a0 \n\n\n\n\n Asset backed securities \n\n\n \u00a0 \n\n\n 2,572 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n25\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(1\n\n)\n\n \u00a0 \n\n\n 2,596 \n\n\n \u00a0 \n\n\n\n\n Equity security \n\n\n \u00a0 \n\n\n 42 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n 42 \n\n\n \u00a0 \n\n\n\n\n Marketable securities \u2013 long-term \n\n\n \u00a0 \n\n\n $ \n\n\n 15,160 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 82 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n(12\n\n)\n\n \u00a0 \n\n\n $ \n\n\n 15,230 \n\n\n \u00a0 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n8\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n \u00a0 \n\n\n December 31, 2020 \n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n Cost \n\n\n \u00a0 \n\n\n UnrealizedGains \n\n\n \u00a0 \n\n\n UnrealizedLosses \n\n\n \u00a0 \n\n\n Fair Value \n\n\n\n\n Short-Term \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n U.S. government and agency obligations \n\n\n \u00a0 \n\n\n $ \n\n\n 4,817 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 36 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n $ \n\n\n 4,853 \n\n\n \u00a0 \n\n\n\n\n Corporate debt securities and certificates of deposit \n\n\n \u00a0 \n\n\n 3,113 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 21 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n 3,134 \n\n\n \u00a0 \n\n\n\n\n Asset backed securities \n\n\n \u00a0 \n\n\n 133 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 1 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 134 \n\n\n \u00a0 \n\n\n\n\n \u00a0\u00a0Marketable securities \u2013 short-term \n\n\n \u00a0 \n\n\n $ \n\n\n 8,063 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 58 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n $ \n\n\n 8,121 \n\n\n \u00a0 \n\n\n\n\n Long-Term \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n U.S. government and agency obligations \n\n\n \u00a0 \n\n\n $ \n\n\n 7,529 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 66 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n $ \n\n\n 7,595 \n\n\n \u00a0 \n\n\n\n\n Corporate debt securities and certificates of deposit \n\n\n \u00a0 \n\n\n 3,975 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 61 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(1\n\n)\n\n \u00a0 \n\n\n 4,035 \n\n\n \u00a0 \n\n\n\n\n Asset backed securities \n\n\n \u00a0 \n\n\n 2,347 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 45 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n 2,392 \n\n\n \u00a0 \n\n\n\n\n Equity security \n\n\n \u00a0 \n\n\n 42 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n (12 \n\n)\n\n \u00a0 \n\n\n 30 \n\n\n \u00a0 \n\n\n\n\n Marketable securities \u2013 long-term \n\n\n \u00a0 \n\n\n $ \n\n\n 13,893 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 172 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n(13\n\n)\n\n \u00a0 \n\n\n $ \n\n\n 14,052 \n\n\n \u00a0 \n\n\n\n\n\n\n\n\n\n\n\nAt June 30, 2021 and December 31, 2020, investments in marketable debt securities in an unrealized loss position were as follows:\u00a0\u00a0\n\n\n\n\n\n\u00a0\n\n\u00a0\n\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\n\u00a0\n\nIn Unrealized Loss Position For\nLess Than 12\u00a0Months\u00a0\n\n\n\u00a0\n\n\n\u00a0In Unrealized Loss Position For\nGreater Than 12\u00a0Months\n\n\n\n\n(In thousands)\u00a0\n\n\n\u00a0\n\n\nFair\u00a0Value\n\n\n\u00a0\n\n\nGross UnrealizedLosses\n\n\n\u00a0\n\n\nFair\u00a0Value\n\n\n\u00a0\n\n\nGross UnrealizedLosses\n\n\n\n\nJune 30, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0 \u00a0U.S. government and agency obligations\n\n\n\n\n\n$\n\n\n5,365\n\n\n\n\n\n\n\n\n$\n\n\n(10\n\n)\n\n\n\n\n$\n\n\n\u2014\n\n\n\n\n\n\n\n\n$\n\n\n\u2014\n\n\n\n\n\n\n\n\u00a0 \u00a0Corporate debt securities and certificates of deposit\n\n\n\n\n\n1,676\n\n\n\n\n\n\n\n\n(1\n\n)\n\n\n\n\n\u2014\n\n\n\n\n\n\n\n\n\u2014\n\n\n\n\n\n\n\n\u00a0 \u00a0Asset backed securities\n\n\n\n\n\n549\n\n\n\n\n\n\n\n\n(1\n\n)\n\n\n\n\n\u2014\n\n\n\n\n\n\n\n\n\u2014\n\n\n\n\n\n\n\n\u00a0 \u00a0 \u00a0 Marketable securities\n\n\n\n\n\n$\n\n\n7,590\n\n\n\n\n\n\n\n\n$\n\n\n(12\n\n)\n\n\n\n\n$\n\n\n\u2014\n\n\n\n\n\n\n\n$\n\n\u2014\n\n\n\n\n\n\n\nDecember 31, 2020\n\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\n\nU.S. government and agency obligations\n\n\n\u00a0\n\n\n$\n\n\n330\n\n\n\n\n\n\u00a0\n\n\n$\n\n\n\u2014\n\n\n\n\u00a0\n\n\n$\n\n\n\u2014\n\n\n\n\u00a0\n\n\n$\n\n\n\u2014\n\n\n\n\n\nCorporate debt securities and certificates of deposit\n\n\n\u00a0\n\n\n411\n\n\n\n\n\n\u00a0\n\n\n(1\n\n)\n\n\u00a0\n\n\n\u2014\n\n\n\n\u00a0\n\n\n\u2014\n\n\n\n\n\nMarketable securities\n\n\n\u00a0\n\n\n$\n\n\n741\n\n\n\n\n\n\u00a0\n\n\n$\n\n\n(1\n\n)\n\n\u00a0\n\n\n$\n\n\n\u2014\n\n\n\n\u00a0\n\n\n$\n\n\n\u2014\n\n\n\n\n\n\n\n\nOur investments in marketable debt securities all have maturities of less than five years. Net pre-tax unrealized gains for marketable debt securities of $105,000 at June 30, 2021 and $229,000 at December 31, 2020 have been recorded as a component of accumulated other comprehensive loss in stockholders\u2019 equity. We have determined that the net pre-tax unrealized losses for marketable debt securities at June 30, 2021 and December 31, 2020 were caused by fluctuations in interest rates and are temporary in nature. We review our marketable debt securities to identify and evaluate investments that have indications of possible impairment. Factors considered in determining whether a loss is other-than-temporary include the length of time and extent to which fair value has been less than the cost basis, credit quality and our ability and intent to hold the investment for a period of time sufficient to allow for any anticipated recovery in market value. We received proceeds from the sale of marketable securities of $225,000 in the three and six months ended June 30, 2021. The gain recognized on the sale was insignificant.\u00a0\u00a0No marketable securities were sold in the three and six months ended June 30, 2020. \u00a0See Note 6 for additional information regarding the fair value of our investments in marketable securities.\n\nInvestments\u00a0in marketable securities classified as cash equivalents of $6.0\u00a0million at\u00a0June 30, 2021 and $1.3 million at December 31, 2020, consist of commercial money market savings accounts, corporate debt securities and certificates of deposit. There were no\u00a0unrealized gains or losses associated with any of these securities at June 30, 2021 or December 31, 2020.\n\nCash\u00a0and\u00a0marketable securities held by foreign subsidiaries totaled $1.4\u00a0million at\u00a0June 30, 2021\u00a0and $672,000 at December 31, 2020.\n\n\n"
+    },
+    "40": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:AvailableForSaleSecuritiesTextBlock",
+            "id": "Tag877",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\nOur investments in marketable securities are classified as available-for-sale and consist of the following:\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n June 30, 2021\n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n Cost \n\n\n \u00a0 \n\n\n UnrealizedGains \n\n\n \u00a0 \n\n\n UnrealizedLosses \n\n\n \u00a0 \n\n\n Fair Value \n\n\n\n\n Short-Term \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n U.S. government and agency obligations \n\n\n \u00a0 \n\n\n $ \n\n\n 3,332 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 20 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n $ \n\n\n 3,352 \n\n\n \u00a0 \n\n\n\n\n Corporate debt securities and certificates of deposit \n\n\n \u00a0 \n\n\n 3,882 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 15 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n 3,897 \n\n\n \u00a0 \n\n\n\n\n Marketable securities \u2013 short-term \n\n\n \u00a0 \n\n\n $ \n\n\n 7,214 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 35 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n $ \n\n\n 7,249 \n\n\n \u00a0 \n\n\n\n\n Long-Term \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n U.S. government and agency obligations \n\n\n \u00a0 \n\n\n $ \n\n\n 9,094 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 30 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n(10\n\n)\n\n \u00a0 \n\n\n $ \n\n\n 9,114 \n\n\n \u00a0 \n\n\n\n\n Corporate debt securities and certificates of deposit \n\n\n \u00a0 \n\n\n 3,452 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 27 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(1\n\n)\n\n \u00a0 \n\n\n 3,478 \n\n\n \u00a0 \n\n\n\n\n Asset backed securities \n\n\n \u00a0 \n\n\n 2,572 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n25\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(1\n\n)\n\n \u00a0 \n\n\n 2,596 \n\n\n \u00a0 \n\n\n\n\n Equity security \n\n\n \u00a0 \n\n\n 42 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n 42 \n\n\n \u00a0 \n\n\n\n\n Marketable securities \u2013 long-term \n\n\n \u00a0 \n\n\n $ \n\n\n 15,160 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 82 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n(12\n\n)\n\n \u00a0 \n\n\n $ \n\n\n 15,230 \n\n\n \u00a0 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n8\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n \u00a0 \n\n\n December 31, 2020 \n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n Cost \n\n\n \u00a0 \n\n\n UnrealizedGains \n\n\n \u00a0 \n\n\n UnrealizedLosses \n\n\n \u00a0 \n\n\n Fair Value \n\n\n\n\n Short-Term \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n U.S. government and agency obligations \n\n\n \u00a0 \n\n\n $ \n\n\n 4,817 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 36 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n $ \n\n\n 4,853 \n\n\n \u00a0 \n\n\n\n\n Corporate debt securities and certificates of deposit \n\n\n \u00a0 \n\n\n 3,113 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 21 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n 3,134 \n\n\n \u00a0 \n\n\n\n\n Asset backed securities \n\n\n \u00a0 \n\n\n 133 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 1 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 134 \n\n\n \u00a0 \n\n\n\n\n \u00a0\u00a0Marketable securities \u2013 short-term \n\n\n \u00a0 \n\n\n $ \n\n\n 8,063 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 58 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n $ \n\n\n 8,121 \n\n\n \u00a0 \n\n\n\n\n Long-Term \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n U.S. government and agency obligations \n\n\n \u00a0 \n\n\n $ \n\n\n 7,529 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 66 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n $ \n\n\n 7,595 \n\n\n \u00a0 \n\n\n\n\n Corporate debt securities and certificates of deposit \n\n\n \u00a0 \n\n\n 3,975 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 61 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(1\n\n)\n\n \u00a0 \n\n\n 4,035 \n\n\n \u00a0 \n\n\n\n\n Asset backed securities \n\n\n \u00a0 \n\n\n 2,347 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 45 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n 2,392 \n\n\n \u00a0 \n\n\n\n\n Equity security \n\n\n \u00a0 \n\n\n 42 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n (12 \n\n)\n\n \u00a0 \n\n\n 30 \n\n\n \u00a0 \n\n\n\n\n Marketable securities \u2013 long-term \n\n\n \u00a0 \n\n\n $ \n\n\n 13,893 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 172 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n(13\n\n)\n\n \u00a0 \n\n\n $ \n\n\n 14,052 \n\n\n \u00a0 \n\n\n\n\n\n\n"
+    },
+    "41": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:AvailableForSaleSecuritiesContinuousUnrealizedLossPositionFairValueTableTextBlock",
+            "id": "Tag714",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\nAt June 30, 2021 and December 31, 2020, investments in marketable debt securities in an unrealized loss position were as follows:\u00a0\u00a0\n\n\n\n\n\n\u00a0\n\n\u00a0\n\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\n\u00a0\n\nIn Unrealized Loss Position For\nLess Than 12\u00a0Months\u00a0\n\n\n\u00a0\n\n\n\u00a0In Unrealized Loss Position For\nGreater Than 12\u00a0Months\n\n\n\n\n(In thousands)\u00a0\n\n\n\u00a0\n\n\nFair\u00a0Value\n\n\n\u00a0\n\n\nGross UnrealizedLosses\n\n\n\u00a0\n\n\nFair\u00a0Value\n\n\n\u00a0\n\n\nGross UnrealizedLosses\n\n\n\n\nJune 30, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0 \u00a0U.S. government and agency obligations\n\n\n\n\n\n$\n\n\n5,365\n\n\n\n\n\n\n\n\n$\n\n\n(10\n\n)\n\n\n\n\n$\n\n\n\u2014\n\n\n\n\n\n\n\n\n$\n\n\n\u2014\n\n\n\n\n\n\n\n\u00a0 \u00a0Corporate debt securities and certificates of deposit\n\n\n\n\n\n1,676\n\n\n\n\n\n\n\n\n(1\n\n)\n\n\n\n\n\u2014\n\n\n\n\n\n\n\n\n\u2014\n\n\n\n\n\n\n\n\u00a0 \u00a0Asset backed securities\n\n\n\n\n\n549\n\n\n\n\n\n\n\n\n(1\n\n)\n\n\n\n\n\u2014\n\n\n\n\n\n\n\n\n\u2014\n\n\n\n\n\n\n\n\u00a0 \u00a0 \u00a0 Marketable securities\n\n\n\n\n\n$\n\n\n7,590\n\n\n\n\n\n\n\n\n$\n\n\n(12\n\n)\n\n\n\n\n$\n\n\n\u2014\n\n\n\n\n\n\n\n$\n\n\u2014\n\n\n\n\n\n\n\nDecember 31, 2020\n\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\n\nU.S. government and agency obligations\n\n\n\u00a0\n\n\n$\n\n\n330\n\n\n\n\n\n\u00a0\n\n\n$\n\n\n\u2014\n\n\n\n\u00a0\n\n\n$\n\n\n\u2014\n\n\n\n\u00a0\n\n\n$\n\n\n\u2014\n\n\n\n\n\nCorporate debt securities and certificates of deposit\n\n\n\u00a0\n\n\n411\n\n\n\n\n\n\u00a0\n\n\n(1\n\n)\n\n\u00a0\n\n\n\u2014\n\n\n\n\u00a0\n\n\n\u2014\n\n\n\n\n\nMarketable securities\n\n\n\u00a0\n\n\n$\n\n\n741\n\n\n\n\n\n\u00a0\n\n\n$\n\n\n(1\n\n)\n\n\u00a0\n\n\n$\n\n\n\u2014\n\n\n\n\u00a0\n\n\n$\n\n\n\u2014\n\n\n\n\n\n\n"
+    },
+    "42": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "cybe:MaximumMaturityOfDebtSecurities",
+            "id": "Tag594",
+            "format": "ixt-sec:durwordsen"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "five years"
+    },
+    "43": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:FairValueDisclosuresTextBlock",
+            "id": "Tag858",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n6. FAIR VALUE MEASUREMENTS:\n\nWe determine the fair value of our assets and liabilities based on the exchange price that would be received for an asset or paid to transfer a liability (exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. Valuation techniques used to measure fair value maximize the use of observable inputs and minimize the use of unobservable inputs. We use a fair value hierarchy with three levels of inputs, of which the first two are considered observable and the last\u00a0is considered unobservable, to measure fair value. The fair value hierarchy gives the highest priority to quoted prices in active markets for identical assets or liabilities (Level\u00a01). The next highest priority is based on quoted prices for similar assets or liabilities in active markets or quoted prices for identical or similar assets or liabilities in non-active markets or other observable inputs (Level 2). The lowest priority is given to unobservable inputs (Level 3).\u00a0The following provides information regarding fair value measurements for our marketable securities as of June 30, 2021 and December 31, 2020\u00a0according to the three-level fair value hierarchy:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0 \n\n\n \u00a0 \n\n\nFair Value Measurements atJune 30, 2021\u00a0Using\n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\nBalance\nJune 30,\u00a02021\n\n\n \u00a0 \n\n\n Quoted\u00a0Pricesin\u00a0ActiveMarkets\u00a0forIdenticalAssets(Level\u00a01) \n\n\n \u00a0 \n\n\n SignificantOtherObservableInputs(Level\u00a02) \n\n\n \u00a0 \n\n\n SignificantUnobservableInputs(Level\u00a03) \n\n\n\n\n Marketable securities: \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n U.S. government and agency obligations \n\n\n \u00a0 \n\n\n $ \n\n\n 12,466 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 12,466 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n \u2014 \n\n\n \u00a0 \n\n\n\n\n Corporate debt securities and certificates of deposit\u00a0\n\n\n \u00a0 \n\n\n 7,375 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 7,375 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n\n\n Asset backed securities \n\n\n \u00a0 \n\n\n 2,596 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 2,596 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n\n\n Equity security \n\n\n \u00a0 \n\n\n 42 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 42 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n\n\n Total marketable securities\u00a0\n\n\n \u00a0 \n\n\n $ \n\n\n 22,479 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 42 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 22,437 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n \u2014 \n\n\n \u00a0 \n\n\n\n\n\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\nFair Value Measurements atDecember 31, 2020\u00a0Using\n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\nBalance\nDecember 31,\n2020\n\n\n \u00a0 \n\n\n Quoted\u00a0Pricesin\u00a0ActiveMarkets\u00a0forIdenticalAssets(Level\u00a01) \n\n\n \u00a0 \n\n\n SignificantOtherObservableInputs(Level\u00a02) \n\n\n \u00a0 \n\n\n SignificantUnobservableInputs(Level\u00a03) \n\n\n\n\n Marketable securities: \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n U.S. government and agency obligations \n\n\n \u00a0 \n\n\n $ \n\n\n 12,448 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 12,448 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n \u2014 \n\n\n \u00a0 \n\n\n\n\n Corporate debt securities and certificates of deposit \n\n\n \u00a0 \n\n\n 7,169 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 7,169 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n\n\n Asset backed securities \n\n\n \u00a0 \n\n\n 2,526 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 2,526 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n\n\n Equity security \n\n\n \u00a0 \n\n\n 30 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 30 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n\n\n Total marketable securities \n\n\n \u00a0 \n\n\n $ \n\n\n 22,173 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 30 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 22,143 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n \u2014 \n\n\n \u00a0 \n\n\n\n\n\n\n\n\n\nDuring the six months ended June 30, 2021 and the year ended December 31, 2020, we owned no Level 3 securities and there were no transfers within the three level hierarchy. A significant transfer is recognized when the inputs used to value a security have been changed which merit a transfer between the levels of the valuation hierarchy.\u00a0 \u00a0\u00a0\n\nThe fair value for our U.S. government and agency obligations, corporate debt securities and certificates of deposit and asset backed securities are determined based on valuations provided by external investment managers who obtain them from a variety of industry standard data providers. The fair value for our equity security is based on a quoted market price obtained from an active market. The carrying amounts of financial instruments included in cash equivalents approximate their related fair values due to the short-term maturities of those instruments. See Note 5 for additional information regarding our investments in marketable securities.\n\n\nNon-financial assets such as equipment and leasehold improvements, goodwill and intangible assets and right-of-use assets for operating leases are subject to non-recurring fair value measurements if they are deemed impaired. We had no re-measurements of non-financial assets to fair value in the six months ended June 30, 2021 or the six months ended June 30, 2020.\u00a0\u00a0\n\n\n\n\n\n\n\n\n\n10\n\n\n\n\n\n\n\n\n\n\n\nThe fair value for\u00a0trade notes receivable is based on discounted future cash flows using current interest rates that would be offered for a similar\u00a0transaction to a similarly situated customer. The difference between the carrying amount and estimated fair value for trade notes receivable is immaterial. If measured at fair value in the financial statements, these financial instruments would be classified as Level 3 in\u00a0the fair value hierarchy. At June 30, 2021, our trade notes receivable were deemed to be fully collectible, and no trade notes receivable were past due more than 90 days or in a non-accrual status with respect to interest income.\n\n"
+    },
+    "44": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:FairValueAssetsMeasuredOnRecurringBasisTextBlock",
+            "id": "Tag158",
+            "escape": "true",
+            "continuedat": "cb1b13bb0-0370-46d7-934c-ece32c4270f4"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "The following provides information regarding fair value measurements for our marketable securities as of June 30, 2021 and December 31, 2020\u00a0according to the three-level fair value hierarchy:"
+    },
+    "45": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:DisclosureOfCompensationRelatedCostsShareBasedPaymentsTextBlock",
+            "id": "Tag841",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n7. SHARE-BASED COMPENSATION:\n\nWe have\u00a0three\u00a0share-based compensation plans that are administered by the Compensation Committee of the Board of Directors. We have (a) an Employee Stock Incentive Plan for officers, other employees, consultants and independent contractors under which we have granted options and restricted stock units to officers and other employees, (b) an Employee Stock Purchase Plan under which shares of our common stock may be acquired by employees at discounted prices, and (c) a Non-Employee Director Stock Plan that provides for automatic grants of restricted shares of our common stock to non-employee directors. New shares of our common stock are issued upon stock option exercises, vesting of restricted stock units, issuances of shares to board members and issuances of shares under the Employee Stock Purchase Plan.\u00a0\nEmployee Stock Incentive Plan\n\u00a0\nAs of\u00a0June 30, 2021, there were\u00a0124,501\u00a0shares of common stock reserved in the aggregate for issuance pursuant to future awards under our Employee Stock Incentive Plan and 467,679 shares of common stock reserved in the aggregate for issuance pursuant to outstanding awards under such plan. Although our Compensation Committee has authority to issue options, restricted stock, restricted stock units, share grants and other share-based benefits under our Employee Stock Incentive Plan, to date only restricted stock units and stock options have been granted under the plan. Options have been granted at an option price per share equal to the market value of our common stock on the date of grant, vest over a four year period\u00a0and expire seven years\u00a0after the date of grant. Restricted stock units vest over a four year\u00a0period and entitle the holders to one share of our common stock for each restricted stock unit. Reserved shares underlying outstanding awards, including options and restricted stock units, that are forfeited are available under the Employee Stock Incentive Plan for future grant.\n\n\nNon-Employee Director Stock Plan\n\n\u00a0\nAs of June 30, 2021, there were\u00a036,000 shares of common stock reserved in the aggregate for issuance pursuant to future restricted share grants under our Non-Employee Director Stock Plan and 8,000 shares of common stock reserved in the aggregate for issuance pursuant to outstanding stock option awards under our Non-Employee Director Stock Plan (which previously authorized the granting of stock options to non-employee directors).\u00a0Under the terms of the plan, each non-employee director receives annual restricted share grants of\u00a02,000 shares of our common stock on the date of each annual meeting at which such director is elected to serve on the board. The annual restricted share grants of common stock vest in four equal quarterly installments during the year after the grant date, provided the non-employee director is still serving as a director on the applicable vesting date.\u00a0\n\nOn the date of our 2021\u00a0annual meeting, we issued\u00a08,000 shares of our common stock to our non-employee directors, which were restricted as specified in the Non-Employee Director Stock Plan. The shares granted at the 2021 annual meeting had an aggregate fair market value on the date of grant equal to $224,000 (grant date fair value of $27.96 per share). As of June 30, 2021, none of these shares were vested. The aggregate fair value of the 8,000 unvested shares based on the closing price of our common stock on June 30, 2021 was $328,000.\u00a0\n\n\n\n\n\nStock Option Activity\n\n\nThe following is a summary of stock option activity in the six months ended\u00a0June 30, 2021:\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n \u00a0 \n\n\n Options Outstanding \n\n\n \u00a0 \n\n\n Weighted\u00a0Average\u00a0ExercisePrice\u00a0Per\u00a0Share \n\n\n\n\n Outstanding, December 31, 2020 \n\n\n 419,100 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 15.22 \n\n\n \u00a0 \n\n\n\n\n Exercised \n\n\n(7,875\n\n)\n\n \u00a0 \n\n\n 17.09 \n\n\n \u00a0 \n\n\n\n\n Outstanding, June 30, 2021 \n\n\n 411,225 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 15.19 \n\n\n \u00a0 \n\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n Exercisable, June 30, 2021 \n\n\n 286,151 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 12.90 \n\n\n \u00a0 \n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n11\n\n\n\n\n\n\n\n\n\n\nThe intrinsic value of an option is the amount by which the market price of the underlying common stock exceeds the option's exercise price. For options outstanding at\u00a0June 30, 2021, the weighted average remaining contractual term of all outstanding options was\u00a03.12 years and their aggregate intrinsic value was $10.6 million. At\u00a0June 30, 2021, the weighted average remaining contractual term of options that were exercisable was 2.18 years and their aggregate intrinsic value was $8.0 million. The aggregate intrinsic value of stock options exercised was $87,000\u00a0in the six months ended June 30, 2021 and $2.1\u00a0million in the six months ended June 30, 2020.\u00a0We received net proceeds from stock option exercises of $67,000 in the\u00a0six months ended June 30, 2021\u00a0and $256,000\u00a0in the\u00a0six months ended June 30, 2020. No stock options vested in the six months ended June 30, 2021 or the six months ended June 30, 2020. No stock options were granted, forfeited or expired in the six months ended June 30, 2021.\u00a0\n\nRestricted Shares and Restricted Stock Units\nThere were 8,000 restricted shares granted under our Non-Employee Director Stock Plan in the six months ended June 30, 2021. Restricted stock units can be granted under our Employee Stock Incentive Plan. There were no restricted stock units granted in the six months ended June 30, 2021. The fair value of restricted shares and restricted stock units is equal to the fair market value of our common stock on the date of grant.\u00a0The aggregate fair value of outstanding restricted shares and restricted\u00a0stock units based on the closing share price of our common stock as of June 30, 2021 was $3.0\u00a0million. The aggregate fair value of restricted shares and restricted stock units that vested, based on the closing price of our common stock on the vesting date, was $115,000\u00a0in the six months ended June 30, 2021 and $102,000 in the six months ended June 30, 2020. No restricted shares or restricted stock units were forfeited in the six months ended June 30, 2021.\n\u00a0\n\nThe following is a summary of activity in restricted shares and restricted stock units in the\u00a0six months ended June 30, 2021:\n\n\n\n\n\n\n Restricted shares and restricted stock units \n\n\n \u00a0 \n\n\n Shares \n\n\n \u00a0 \n\n\n Weighted\u00a0Average\u00a0 Grant\u00a0Date\u00a0Fair\u00a0Value \n\n\n\n\n Non-vested at December 31, 2020 \n\n\n \u00a0 \n\n\n 68,454 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 21.45 \n\n\n \u00a0 \n\n\n\nGranted\n\n\n8,000\n\n\n\n\n27.96\n\n\n\n\n\n Vested \n\n\n \u00a0 \n\n\n(4,000\n\n)\n\n \u00a0 \n\n\n 28.34 \n\n\n \u00a0 \n\n\n\n\n Non-vested at June 30, 2021 \n\n\n \u00a0 \n\n\n 72,454 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 21.79 \n\n\n \u00a0 \n\n\n\n\n\n\n\n\u00a0\n\nEmployee Stock Purchase Plan\n\n\nWe have an Employee Stock Purchase Plan available to eligible U.S. employees. Under the terms of the plan, eligible employees may designate from 1%\u00a0to 10%\u00a0of their compensation to be withheld through payroll deductions, up to a maximum of $6,500 in each plan year, for the purchase of common stock at 85% of the lower of the market price on the first or last day of the offering period (which begins on August 1st and ends on July 31st of each year). No\u00a0shares were purchased under this plan in the six months ended June 30, 2021\u00a0or the six months ended June 30, 2020.\u00a0 As of June 30, 2021, 136,971 shares remain available for future purchase under the Employee Stock Purchase Plan.\u00a0\u00a0\n\n\n\n\n\nShare-Based Compensation Information\u00a0\nAll share-based payments to employees and non-employee directors, including grants of stock options, restricted stock units and restricted shares, are required to be recognized as an expense in our consolidated statements of income based on the grant date fair value of the award. We utilize the straight-line method of expense recognition over the award's\u00a0service period for our graded vesting options. The fair value of stock options has been determined using the Black-Scholes model. We account for the impact of forfeitures related to employee share-based payment arrangements when the forfeitures occur. We have classified employee share-based compensation within our consolidated statements of income in the same manner as our cash-based employee compensation costs.\u00a0\nPre-tax share-based compensation expense in the three months ended June 30, 2021 totaled $337,000, and included $125,000 for stock options, $31,000 for our Employee Stock Purchase Plan, $124,000 for restricted stock units and $57,000 for restricted shares.\u00a0Pre-tax share-based compensation expense in the\u00a0six months ended June 30, 2021\u00a0totaled $671,000, and included $248,000\u00a0for stock options,\u00a0$63,000\u00a0for our Employee\u00a0Stock Purchase Plan, $247,000\u00a0for restricted stock units and $113,000\u00a0for restricted shares.\n\u00a0\nPre-tax share-based compensation expense in the\u00a0three months ended June 30, 2020\u00a0totaled $286,000, and included $114,000 for stock options, $25,000 for our Employee Stock Purchase Plan, $101,000 for restricted stock units and $46,000 for restricted shares.\u00a0Pre-tax share-based compensation expense in the\u00a0six months ended June 30, 2020\u00a0totaled $558,000, and included $228,000\u00a0for stock options, $48,000\u00a0for our Employee Stock Purchase Plan, $202,000\u00a0for restricted stock units and $80,000\u00a0for restricted shares.\n\nAt June 30, 2021, the total unrecognized compensation cost related to non-vested share-based compensation arrangements was $2.3 million and the related weighted average period over which such cost is expected to be recognized was 2.51 years.\n"
+    },
+    "46": {
+        "attrs": {
+            "contextref": "D20210630_EmployeeStockOptionMember",
+            "name": "us-gaap:ShareBasedCompensationArrangementByShareBasedPaymentAwardAwardVestingPeriod1",
+            "id": "Tag131",
+            "format": "ixt-sec:durwordsen"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "four year"
+    },
+    "47": {
+        "attrs": {
+            "contextref": "D20210630_EmployeeStockOptionMember",
+            "name": "us-gaap:SharebasedCompensationArrangementBySharebasedPaymentAwardExpirationPeriod",
+            "id": "Tag761",
+            "format": "ixt-sec:durwordsen"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "seven years"
+    },
+    "48": {
+        "attrs": {
+            "contextref": "D20210630_RestrictedStockUnitsRSUMember",
+            "name": "us-gaap:ShareBasedCompensationArrangementByShareBasedPaymentAwardAwardVestingPeriod1",
+            "id": "Tag461",
+            "format": "ixt-sec:durwordsen"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "four year"
+    },
+    "49": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ScheduleOfShareBasedCompensationStockOptionsActivityTableTextBlock",
+            "id": "Tag875",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\nThe following is a summary of stock option activity in the six months ended\u00a0June 30, 2021:\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n \u00a0 \n\n\n Options Outstanding \n\n\n \u00a0 \n\n\n Weighted\u00a0Average\u00a0ExercisePrice\u00a0Per\u00a0Share \n\n\n\n\n Outstanding, December 31, 2020 \n\n\n 419,100 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 15.22 \n\n\n \u00a0 \n\n\n\n\n Exercised \n\n\n(7,875\n\n)\n\n \u00a0 \n\n\n 17.09 \n\n\n \u00a0 \n\n\n\n\n Outstanding, June 30, 2021 \n\n\n 411,225 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 15.19 \n\n\n \u00a0 \n\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n Exercisable, June 30, 2021 \n\n\n 286,151 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 12.90 \n\n\n \u00a0 \n\n\n\n\n\n\n"
+    },
+    "50": {
+        "attrs": {
+            "contextref": "D20210630_EmployeeStockOptionMember",
+            "name": "us-gaap:SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsOutstandingWeightedAverageRemainingContractualTerm2",
+            "id": "Tag139",
+            "format": "ixt-sec:duryear"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "3.12"
+    },
+    "51": {
+        "attrs": {
+            "contextref": "D20210630_EmployeeStockOptionMember",
+            "name": "us-gaap:SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsExercisableWeightedAverageRemainingContractualTerm1",
+            "id": "Tag395",
+            "format": "ixt-sec:duryear"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "2.18"
+    },
+    "52": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ScheduleOfShareBasedCompensationRestrictedStockUnitsAwardActivityTableTextBlock",
+            "id": "Tag502",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\nThe following is a summary of activity in restricted shares and restricted stock units in the\u00a0six months ended June 30, 2021:\n\n\n\n\n\n\n Restricted shares and restricted stock units \n\n\n \u00a0 \n\n\n Shares \n\n\n \u00a0 \n\n\n Weighted\u00a0Average\u00a0 Grant\u00a0Date\u00a0Fair\u00a0Value \n\n\n\n\n Non-vested at December 31, 2020 \n\n\n \u00a0 \n\n\n 68,454 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 21.45 \n\n\n \u00a0 \n\n\n\nGranted\n\n\n8,000\n\n\n\n\n27.96\n\n\n\n\n\n Vested \n\n\n \u00a0 \n\n\n(4,000\n\n)\n\n \u00a0 \n\n\n 28.34 \n\n\n \u00a0 \n\n\n\n\n Non-vested at June 30, 2021 \n\n\n \u00a0 \n\n\n 72,454 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 21.79 \n\n\n \u00a0 \n\n\n\n\n\n\n"
+    },
+    "53": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognizedPeriodForRecognition1",
+            "id": "Tag135",
+            "format": "ixt-sec:duryear"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "2.51"
+    },
+    "54": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:StockholdersEquityNoteDisclosureTextBlock",
+            "id": "Tag838",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n8.\u00a0CHANGES IN STOCKHOLDERS\u2019 EQUITY:\n\u00a0\n\nA reconciliation of the changes in our stockholders' equity is as follows:\n\nThree Months Ended June 30, 2021:\n\n\n\n\n\n\n \u00a0 \n\n\n\nCommon Stock\n\n\n\nAccumulated\nOther Comprehensive\nLoss\n\n\n\u00a0\n\n\nRetained\nEarnings\n\n\n\nTotal Stockholders\u2019\nEquity\n\n\n\n\n(In thousands)\n\n\n\nShares\n\n\n\u00a0\n\n\n\u00a0Amount\u00a0\n\n\n\n\u00a0\n\n\n\n\n\n Balance, March 31, 2021 \n\n\n\n 7,299 \n\n\n\n \u00a0 \n\n\n $\u00a0 \n\n\n 38,208 \n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n (1,306 \n\n)\n\n \u00a0 \n\n\n $\u00a0 \n\n\n 30,254 \n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n 67,156 \n\n\n \u00a0 \n\n\n\nExercise of stock options, net of shares exchanged as payment\n\u00a0\n1\n\n\n\n10\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n10\n\n\n\nShare issuances for director compensation\n\n8\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n\n Share-based compensation \n\n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n337\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n337\n\n\n \u00a0 \n\n\n\n\n Other comprehensive loss, net of tax \n\n\n\n\u2014 \n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n(21\n\n)\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n(21\n\n)\n\n\n\n Net income \n\n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n3,109\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n3,109\n\n\n \u00a0 \n\n\n\n\n Balance,\u00a0June 30, 2021 \n\n\n\n7,308\n\n\n\n \u00a0 \n\n\n $\u00a0 \n\n\n38,555\n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n(1,327\n\n)\n\n \u00a0 \n\n\n $\u00a0 \n\n\n33,363\n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n70,591\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSix Months Ended June 30, 2021:\n\n\n\n\n\n\n \u00a0 \n\n\n\nCommon Stock\n\n\n\nAccumulated\nOther Comprehensive\nLoss\n\n\n\u00a0\n\n\nRetained\nEarnings\n\n\n\nTotal Stockholders\u2019\nEquity\n\n\n\n\n(In thousands)\n\n\n\nShares\n\n\n\u00a0\n\n\n\u00a0Amount\u00a0\n\n\n\n\u00a0\n\n\n\n\n\n Balance,\u00a0December 31, 2020 \n\n\n\n 7,295 \n\n\n\n \u00a0 \n\n\n $\u00a0 \n\n\n 37,817 \n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n (1,102 \n\n)\n\n \u00a0 \n\n\n $\u00a0 \n\n\n 28,813 \n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n 65,528 \n\n\n \u00a0 \n\n\n\nExercise of stock options, net of shares exchanged as payment\n\n5\n\n\n\n67\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n67\n\n\n\nShare issuances for director compensation\n\n8\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n\n Share-based compensation \n\n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n671\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n671\n\n\n \u00a0 \n\n\n\n\n Other comprehensive loss, net of tax \n\n\n\n\u2014 \n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n(225\n\n)\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n(225\n\n)\n\n\n\n Net income \n\n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n4,550\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n4,550\n\n\n \u00a0 \n\n\n\n\n Balance,\u00a0June 30, 2021 \n\n\n\n7,308\n\n\n\n \u00a0 \n\n\n $\u00a0 \n\n\n38,555\n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n(1,327\n\n)\n\n \u00a0 \n\n\n $\u00a0 \n\n\n33,363\n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n70,591\n\n\n\n\n\n\n\n\u00a0\nThree Months Ended June 30, 2020:\n\n\n\n\n\n\n\n\n\u00a0\n\nCommon Stock\n\n\nAccumulated\nOther Comprehensive\nLoss\n\n\u00a0\n\nRetained\nEarnings\n\n\n\nTotal Stockholders\u2019\nEquity\n\n\n\n(In thousands)\u00a0\n\nShares\n\u00a0\n\u00a0Amount\u00a0\n\n\u00a0\n\n\n\nBalance, March 31, 2020\n\u00a0\n\u00a07,165\n\n\u00a0\n$\n\u00a037,016\n\u00a0\n\n$\n\u00a0(1,896\n)\n\u00a0\n$\n23,915\n\u00a0\n\n$\n59,035\n\u00a0\n\n\nExercise of stock options, net of shares exchanged as payment\n\n75\n\n\n\n171\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n171\n\n\n\nTax payments for shares withheld related to stock option exercises\n\n(16\n)\n\n\n(420\n)\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n(420\n)\n\n\n\nShare issuances for director compensation \n\n\n\u00a08\n\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\u00a0\n\n\nShare-based compensation\n\n\u00a0\u2014\n\n\u00a0\n\u00a0\n286\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n\u00a0286\n\u00a0\n\n\nOther comprehensive income, net of tax\n\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u00a0\u2014\n\u00a0\n\n\u00a0\n250\n\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n250\n\n\n\nNet income\n\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u00a0\u2014\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\n\u00a0\n\u00a0\n1,633\n\n\n\u00a0\n1,633\n\n\n\nBalance, June 30, 2020\n\n\u00a07,232\n\n\u00a0\n$\n37,053\n\u00a0\n\n$\n(1,646\n)\n\u00a0\n$\n25,548\n\u00a0\n\n$\n60,955\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n13\n\n\n\n\n\n\n\n\n\nSix Months Ended June 30, 2020:\n\n\n\n\n\n\n\n\n\u00a0\n\nCommon Stock\n\n\nAccumulated\nOther Comprehensive\nLoss\n\n\u00a0\n\nRetained\nEarnings\n\n\n\nTotal Stockholders\u2019\nEquity\n\n\n\n(In thousands)\u00a0\n\nShares\n\u00a0\n\u00a0Amount\u00a0\n\n\u00a0\n\n\n\nBalance, December 31, 2019\n\u00a0\n\u00a07,155\n\n\u00a0\n$\n\u00a036,659\n\u00a0\n\n$\n\u00a0(1,406\n)\n\u00a0\n$\n23,071\n\u00a0\n\n$\n58,324\n\u00a0\n\n\nExercise of stock options, net of shares exchanged as payment\n\n85\n\n\n\n256\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n256\n\n\n\nTax payments for shares withheld related to stock option exercises\n\n(16\n)\n\n\n(420\n)\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n(420\n)\n\n\n\nShare issuances for director compensation \n\n\n\u00a08\n\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\u00a0\n\n\nShare-based compensation\n\n\u00a0\u2014\n\n\u00a0\n\u00a0\n558\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n\u00a0558\n\u00a0\n\n\nOther comprehensive income, net of tax\n\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u00a0\u2014\n\u00a0\n\n\u00a0\n(240\n)\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n(240\n)\n\n\nNet income\n\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u00a0\u2014\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\n\u00a0\n\u00a0\n2,477\n\n\n\u00a0\n2,477\n\n\n\nBalance, June 30, 2020\n\n\u00a07,232\n\n\u00a0\n$\n37,053\n\u00a0\n\n$\n(1,646\n)\n\u00a0\n$\n25,548\n\u00a0\n\n$\n60,955\n\u00a0\n\n\n\n\n\n\n\n\n"
+    },
+    "55": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ScheduleOfStockholdersEquityTableTextBlock",
+            "id": "Tag839",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\nA reconciliation of the changes in our stockholders' equity is as follows:\n\nThree Months Ended June 30, 2021:\n\n\n\n\n\n\n \u00a0 \n\n\n\nCommon Stock\n\n\n\nAccumulated\nOther Comprehensive\nLoss\n\n\n\u00a0\n\n\nRetained\nEarnings\n\n\n\nTotal Stockholders\u2019\nEquity\n\n\n\n\n(In thousands)\n\n\n\nShares\n\n\n\u00a0\n\n\n\u00a0Amount\u00a0\n\n\n\n\u00a0\n\n\n\n\n\n Balance, March 31, 2021 \n\n\n\n 7,299 \n\n\n\n \u00a0 \n\n\n $\u00a0 \n\n\n 38,208 \n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n (1,306 \n\n)\n\n \u00a0 \n\n\n $\u00a0 \n\n\n 30,254 \n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n 67,156 \n\n\n \u00a0 \n\n\n\nExercise of stock options, net of shares exchanged as payment\n\u00a0\n1\n\n\n\n10\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n10\n\n\n\nShare issuances for director compensation\n\n8\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n\n Share-based compensation \n\n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n337\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n337\n\n\n \u00a0 \n\n\n\n\n Other comprehensive loss, net of tax \n\n\n\n\u2014 \n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n(21\n\n)\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n(21\n\n)\n\n\n\n Net income \n\n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n3,109\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n3,109\n\n\n \u00a0 \n\n\n\n\n Balance,\u00a0June 30, 2021 \n\n\n\n7,308\n\n\n\n \u00a0 \n\n\n $\u00a0 \n\n\n38,555\n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n(1,327\n\n)\n\n \u00a0 \n\n\n $\u00a0 \n\n\n33,363\n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n70,591\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSix Months Ended June 30, 2021:\n\n\n\n\n\n\n \u00a0 \n\n\n\nCommon Stock\n\n\n\nAccumulated\nOther Comprehensive\nLoss\n\n\n\u00a0\n\n\nRetained\nEarnings\n\n\n\nTotal Stockholders\u2019\nEquity\n\n\n\n\n(In thousands)\n\n\n\nShares\n\n\n\u00a0\n\n\n\u00a0Amount\u00a0\n\n\n\n\u00a0\n\n\n\n\n\n Balance,\u00a0December 31, 2020 \n\n\n\n 7,295 \n\n\n\n \u00a0 \n\n\n $\u00a0 \n\n\n 37,817 \n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n (1,102 \n\n)\n\n \u00a0 \n\n\n $\u00a0 \n\n\n 28,813 \n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n 65,528 \n\n\n \u00a0 \n\n\n\nExercise of stock options, net of shares exchanged as payment\n\n5\n\n\n\n67\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n67\n\n\n\nShare issuances for director compensation\n\n8\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n\n Share-based compensation \n\n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n671\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n671\n\n\n \u00a0 \n\n\n\n\n Other comprehensive loss, net of tax \n\n\n\n\u2014 \n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n(225\n\n)\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n(225\n\n)\n\n\n\n Net income \n\n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n\u2014\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n4,550\n\n\n \u00a0 \n\n\n\n \u00a0 \n\n\n4,550\n\n\n \u00a0 \n\n\n\n\n Balance,\u00a0June 30, 2021 \n\n\n\n7,308\n\n\n\n \u00a0 \n\n\n $\u00a0 \n\n\n38,555\n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n(1,327\n\n)\n\n \u00a0 \n\n\n $\u00a0 \n\n\n33,363\n\n\n \u00a0 \n\n\n\n $\u00a0 \n\n\n70,591\n\n\n\n\n\n\n\n\u00a0\nThree Months Ended June 30, 2020:\n\n\n\n\n\n\n\n\n\u00a0\n\nCommon Stock\n\n\nAccumulated\nOther Comprehensive\nLoss\n\n\u00a0\n\nRetained\nEarnings\n\n\n\nTotal Stockholders\u2019\nEquity\n\n\n\n(In thousands)\u00a0\n\nShares\n\u00a0\n\u00a0Amount\u00a0\n\n\u00a0\n\n\n\nBalance, March 31, 2020\n\u00a0\n\u00a07,165\n\n\u00a0\n$\n\u00a037,016\n\u00a0\n\n$\n\u00a0(1,896\n)\n\u00a0\n$\n23,915\n\u00a0\n\n$\n59,035\n\u00a0\n\n\nExercise of stock options, net of shares exchanged as payment\n\n75\n\n\n\n171\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n171\n\n\n\nTax payments for shares withheld related to stock option exercises\n\n(16\n)\n\n\n(420\n)\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n(420\n)\n\n\n\nShare issuances for director compensation \n\n\n\u00a08\n\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\u00a0\n\n\nShare-based compensation\n\n\u00a0\u2014\n\n\u00a0\n\u00a0\n286\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n\u00a0286\n\u00a0\n\n\nOther comprehensive income, net of tax\n\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u00a0\u2014\n\u00a0\n\n\u00a0\n250\n\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n250\n\n\n\nNet income\n\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u00a0\u2014\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\n\u00a0\n\u00a0\n1,633\n\n\n\u00a0\n1,633\n\n\n\nBalance, June 30, 2020\n\n\u00a07,232\n\n\u00a0\n$\n37,053\n\u00a0\n\n$\n(1,646\n)\n\u00a0\n$\n25,548\n\u00a0\n\n$\n60,955\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n13\n\n\n\n\n\n\n\n\n\nSix Months Ended June 30, 2020:\n\n\n\n\n\n\n\n\n\u00a0\n\nCommon Stock\n\n\nAccumulated\nOther Comprehensive\nLoss\n\n\u00a0\n\nRetained\nEarnings\n\n\n\nTotal Stockholders\u2019\nEquity\n\n\n\n(In thousands)\u00a0\n\nShares\n\u00a0\n\u00a0Amount\u00a0\n\n\u00a0\n\n\n\nBalance, December 31, 2019\n\u00a0\n\u00a07,155\n\n\u00a0\n$\n\u00a036,659\n\u00a0\n\n$\n\u00a0(1,406\n)\n\u00a0\n$\n23,071\n\u00a0\n\n$\n58,324\n\u00a0\n\n\nExercise of stock options, net of shares exchanged as payment\n\n85\n\n\n\n256\n\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n256\n\n\n\nTax payments for shares withheld related to stock option exercises\n\n(16\n)\n\n\n(420\n)\n\n\n\u2014\n\n\n\n\u2014\n\n\n\n(420\n)\n\n\n\nShare issuances for director compensation \n\n\n\u00a08\n\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\u00a0\n\n\nShare-based compensation\n\n\u00a0\u2014\n\n\u00a0\n\u00a0\n558\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n\u00a0558\n\u00a0\n\n\nOther comprehensive income, net of tax\n\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u00a0\u2014\n\u00a0\n\n\u00a0\n(240\n)\n\u00a0\n\u00a0\n\u2014\n\u00a0\n\n\u00a0\n(240\n)\n\n\nNet income\n\n\u00a0\u2014\n\n\u00a0\n\u00a0\n\u00a0\u2014\n\u00a0\n\n\u00a0\n\u00a0\u2014\n\n\u00a0\n\u00a0\n2,477\n\n\n\u00a0\n2,477\n\n\n\nBalance, June 30, 2020\n\n\u00a07,232\n\n\u00a0\n$\n37,053\n\u00a0\n\n$\n(1,646\n)\n\u00a0\n$\n25,548\n\u00a0\n\n$\n60,955\n\u00a0\n\n\n\n\n\n\n\n"
+    },
+    "56": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:AdditionalFinancialInformationDisclosureTextBlock",
+            "id": "Tag908",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n9. OTHER FINANCIAL STATEMENT DATA:\n\n\nInventories consisted of the following:\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n June 30, 2021 \n\n\n \u00a0 \n\n\n December 31, 2020 \n\n\n\n\n Raw materials and purchased parts \n\n\n \u00a0 \n\n\n $ \n\n\n 14,106 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 11,903 \n\n\n \u00a0 \n\n\n\n\n Work in process \n\n\n \u00a0 \n\n\n 2,103 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 2,459 \n\n\n \u00a0 \n\n\n\n\n Finished goods \n\n\n \u00a0 \n\n\n 5,603 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 4,208 \n\n\n \u00a0 \n\n\n\nDemonstration inventories, net\n\n \u00a0 \n\n1,454\n\n \u00a0 \n\n\n \u00a0 \n\n1,701\n\n \u00a0 \n\n\n\n\n Total inventories \n\n\n \u00a0 \n\n\n $ \n\n\n 23,266 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 20,271 \n\n\n \u00a0 \n\n\n\n\n\n\n\n\nDemonstration inventories are stated at cost less accumulated amortization, generally based on a 36 month useful life. Accumulated amortization for demonstration inventories totaled $2.6 million at June 30, 2021 and $2.7 million at\u00a0December 31, 2020. Amortization expense related to demonstration inventories in the three and six months ended June 30, 2021\u00a0was $168,000 and $322,000, respectively. Amortization expense related to demonstration inventories in the three and six months ended June 30, 2020 was $211,000 and $442,000, respectively.\n\nAccrued expenses consisted of the following:\u00a0\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n June 30, 2021 \n\n\n \u00a0 \n\n\n December 31, 2020\n\n\n\n\n Wages and benefits\u00a0\n\n\n \u00a0 \n\n\n $ \n\n\n 2,873 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 2,768 \n\n\n \u00a0 \n\n\n\n\n Warranty liability \n\n\n \u00a0 \n\n\n 920 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 793 \n\n\n \u00a0 \n\n\n\nIncome\u00a0taxes payable\u00a0\n\n \u00a0 \n\n208\n\n \u00a0 \n\n\n \u00a0 \n\n269\n\n \u00a0 \n\n\n\n\n Other \n\n\n \u00a0 \n\n\n 164 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 63 \n\n\n \u00a0 \n\n\n\n\n\u00a0Total accrued expenses\n\n\n \u00a0 \n\n\n $ \n\n\n 4,165 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 3,893 \n\n\n \u00a0 \n\n\n\n\n\n\n\n\nWarranty costs:\u00a0\n\nWe provide for the estimated cost of product warranties, which cover products for periods ranging from one to three years, at the time revenue is recognized. While we engage in extensive product quality programs and processes, including actively monitoring and evaluating the quality of components provided by suppliers, warranty obligations do arise. These obligations are affected by product failure rates, the costs of materials used in correcting product failures and service delivery expenses incurred to make these corrections. If actual product failure rates and material or service delivery costs differ from our estimates, revisions to the estimated warranty liability are required and could be material. At the end of each reporting period, we revise our estimated warranty liability based on these factors. The current portion of our warranty liability is included as a component of accrued expenses. The long-term portion of our warranty liability is included as a component of other liabilities.\n\n\n\n\n\n\n14\n\n\n\n\n\n\n\n\nA reconciliation of the changes in our estimated warranty liability is as follows:\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n Six Months Ended June 30,\n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n 2021 \n\n\n \u00a0 \n\n\n 2020 \n\n\n\n\n Balance at beginning of period \n\n\n \u00a0 \n\n\n $ \n\n\n 839 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 798 \n\n\n \u00a0 \n\n\n\n\n Accrual for warranties \n\n\n \u00a0 \n\n\n 527 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 429 \n\n\n \u00a0 \n\n\n\n\n Warranty revision \n\n\n \u00a0 \n\n\n3\n\n\n\n \u00a0 \n\n\n9\n\n\n\n\n\n Settlements made during the period \n\n\n \u00a0 \n\n\n(392\n\n)\n\n \u00a0 \n\n\n (474 \n\n\n ) \n\n\n\n\n Balance at end of period \n\n\n \u00a0 \n\n\n 977 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 762 \n\n\n \u00a0 \n\n\n\n\n Current portion of estimated warranty liability \n\n\n \u00a0 \n\n\n(920\n\n)\n\n \u00a0 \n\n\n (729 \n\n\n ) \n\n\n\n\n Long-term estimated warranty liability \n\n\n \u00a0 \n\n\n $ \n\n\n 57 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 33 \n\n\n \u00a0 \n\n\n\n\n\n\n\n\nDeferred warranty revenue:\n\nThe current portion of our deferred warranty revenue is included as a component of advance customer payments. The long-term portion of our deferred warranty revenue is included as a component of other liabilities. A reconciliation of the changes in our deferred warranty revenue is as follows:\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n Six Months Ended June 30, \n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n 2021 \n\n\n \u00a0 \n\n\n 2020 \n\n\n\n\n Balance at beginning of period \n\n\n \u00a0 \n\n\n $ \n\n\n 344 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 275 \n\n\n \u00a0 \n\n\n\n\n Revenue deferrals \n\n\n \u00a0 \n\n\n 268 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 231 \n\n\n \u00a0 \n\n\n\n\n Amortization of deferred revenue \n\n\n \u00a0 \n\n\n(221\n\n)\n\n \u00a0 \n\n\n (183 \n\n\n ) \n\n\n\n\n Total deferred warranty revenue \n\n\n \u00a0 \n\n\n 391 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 323 \n\n\n \u00a0 \n\n\n\n\n Current portion of deferred warranty revenue \n\n\n \u00a0 \n\n\n(301\n\n)\n\n \u00a0 \n\n\n (209 \n\n\n ) \n\n\n\n\n Long-term deferred warranty revenue\n\n\n \u00a0 \n\n\n $ \n\n\n 90 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 114 \n\n\n \u00a0\u00a0 \n\n\n\n\n\n\n"
+    },
+    "57": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ScheduleOfInventoryCurrentTableTextBlock",
+            "id": "Tag337",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\nInventories consisted of the following:\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n June 30, 2021 \n\n\n \u00a0 \n\n\n December 31, 2020 \n\n\n\n\n Raw materials and purchased parts \n\n\n \u00a0 \n\n\n $ \n\n\n 14,106 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 11,903 \n\n\n \u00a0 \n\n\n\n\n Work in process \n\n\n \u00a0 \n\n\n 2,103 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 2,459 \n\n\n \u00a0 \n\n\n\n\n Finished goods \n\n\n \u00a0 \n\n\n 5,603 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 4,208 \n\n\n \u00a0 \n\n\n\nDemonstration inventories, net\n\n \u00a0 \n\n1,454\n\n \u00a0 \n\n\n \u00a0 \n\n1,701\n\n \u00a0 \n\n\n\n\n Total inventories \n\n\n \u00a0 \n\n\n $ \n\n\n 23,266 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 20,271 \n\n\n \u00a0 \n\n\n\n\n\n\n"
+    },
+    "58": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "cybe:DemonstrationInventoryUsefulLife",
+            "id": "Tag792",
+            "format": "ixt-sec:durmonth"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "36"
+    },
+    "59": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ScheduleOfAccruedLiabilitiesTableTextBlock",
+            "id": "Tag268",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\nAccrued expenses consisted of the following:\u00a0\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n June 30, 2021 \n\n\n \u00a0 \n\n\n December 31, 2020\n\n\n\n\n Wages and benefits\u00a0\n\n\n \u00a0 \n\n\n $ \n\n\n 2,873 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 2,768 \n\n\n \u00a0 \n\n\n\n\n Warranty liability \n\n\n \u00a0 \n\n\n 920 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 793 \n\n\n \u00a0 \n\n\n\nIncome\u00a0taxes payable\u00a0\n\n \u00a0 \n\n208\n\n \u00a0 \n\n\n \u00a0 \n\n269\n\n \u00a0 \n\n\n\n\n Other \n\n\n \u00a0 \n\n\n 164 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 63 \n\n\n \u00a0 \n\n\n\n\n\u00a0Total accrued expenses\n\n\n \u00a0 \n\n\n $ \n\n\n 4,165 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 3,893 \n\n\n \u00a0 \n\n\n\n\n\n\n"
+    },
+    "60": {
+        "attrs": {
+            "contextref": "D20210630_MaximumMember",
+            "name": "cybe:ProductWarrantiesTimeFrame",
+            "id": "Tag797",
+            "format": "ixt-sec:durwordsen"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "three years"
+    },
+    "61": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ScheduleOfProductWarrantyLiabilityTableTextBlock",
+            "id": "Tag493",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n\n\n\n\n\n14\n\n\n\n\n\n\n\n\nA reconciliation of the changes in our estimated warranty liability is as follows:\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n Six Months Ended June 30,\n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n 2021 \n\n\n \u00a0 \n\n\n 2020 \n\n\n\n\n Balance at beginning of period \n\n\n \u00a0 \n\n\n $ \n\n\n 839 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 798 \n\n\n \u00a0 \n\n\n\n\n Accrual for warranties \n\n\n \u00a0 \n\n\n 527 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 429 \n\n\n \u00a0 \n\n\n\n\n Warranty revision \n\n\n \u00a0 \n\n\n3\n\n\n\n \u00a0 \n\n\n9\n\n\n\n\n\n Settlements made during the period \n\n\n \u00a0 \n\n\n(392\n\n)\n\n \u00a0 \n\n\n (474 \n\n\n ) \n\n\n\n\n Balance at end of period \n\n\n \u00a0 \n\n\n 977 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 762 \n\n\n \u00a0 \n\n\n\n\n Current portion of estimated warranty liability \n\n\n \u00a0 \n\n\n(920\n\n)\n\n \u00a0 \n\n\n (729 \n\n\n ) \n\n\n\n\n Long-term estimated warranty liability \n\n\n \u00a0 \n\n\n $ \n\n\n 57 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 33 \n\n\n \u00a0 \n\n\n\n\n\n\n"
+    },
+    "62": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "cybe:ScheduleOfChangesInDeferredWarrantyRevenueTableTextBlock",
+            "id": "Tag808",
+            "escape": "true",
+            "continuedat": "c0abd03aa-4327-46ad-b050-f1cadaa88747"
+        },
+        "contents_pattern": [
+            "Tag"
+        ],
+        "text": "A reconciliation of the changes in our deferred warranty revenue is as follows:"
+    },
+    "63": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:IntangibleAssetsDisclosureTextBlock",
+            "id": "Tag736",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n10. INTANGIBLE ASSETS:\u00a0\n\n\n\nIntangible assets consist\u00a0of the following:\u00a0\n\n\n\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n June 30, 2021 \n\n\n \u00a0 \n\n\n December 31, 2020 \n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n GrossCarryingAmount \n\n\n\n AccumulatedAmortization \n\n\n\n Net \n\n\n\n GrossCarryingAmount \n\n\n\n AccumulatedAmortization \n\n\n\n Net \n\n\n\n\n Patents \n\n\n \u00a0 \n\n\n $ \n\n\n 1,991 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n(1,628\n\n)\n\n \u00a0 \n\n\n $ \n\n\n 363 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 1,832 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n(1,542\n\n)\n\n \u00a0 \n\n\n $ \n\n\n 290 \n\n\n \u00a0 \n\n\n\n\n Software \n\n\n \u00a0 \n\n\n 206 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(206\n\n)\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 206 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(200\n\n)\n\n \u00a0 \n\n\n 6 \n\n\n \u00a0 \n\n\n\n\n Marketing\u00a0assets\u00a0and\u00a0customer\u00a0relationships \n\n\n \u00a0 \n\n\n 86 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(66\n\n)\n\n \u00a0 \n\n\n 20 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 101 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(72\n\n)\n\n \u00a0 \n\n\n 29 \n\n\n \u00a0 \n\n\n\n\n \u00a0 \u00a0\u00a0Total intangible assets \n\n\n \u00a0 \n\n\n $ \n\n\n 2,283 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n(1,900\n\n)\n\n \u00a0 \n\n\n $ \n\n\n 383 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 2,139 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n(1,814\n\n)\n\n \u00a0 \n\n\n $ \n\n\n 325 \n\n\n \u00a0 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAmortization expense in the three and six months ended June 30, 2021 and\u00a0June 30, 2020\u00a0was as follows:\u00a0\u00a0\n\n\n\n\n\n\n\n\n\n \u00a0 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \u00a0 \n\n\nThree Months Ended June 30,\n\nSix Months Ended June 30,\n\n\n\n (In thousands) \n\n\n2021\n\n2020\n\n2021\n\n2020\n\n\n\n Patents \n\n\n$\n44\n\n\n$\n35\n\n\n$\n87\n\n\n$\n73\n\n\n\n\n Software \n\n\n\n\u2014\n\n\n\n7\n\n\n\n6\n\n\n\n15\n\n\n\n\n Marketing assets and customer relationships \n\n\n\n2\n\n\n\n3\n\n\n\n4\n\n\n\n5\n\n\n\n\n \u00a0 \u00a0 Total amortization expense \n\n\n$\n46\n\n\n$\n45\n\n\n$\n97\n\n\n$\n93\n\n\n\n\n\n\n\n\n\n\n\nEstimated aggregate amortization expense based on current intangible assets for the next four years is expected to be as follows: $96,000 for the remainder of 2021; $158,000 in 2022; $109,000 in 2023;\u00a0and\u00a0$20,000 in 2024.\n"
+    },
+    "64": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ScheduleOfFiniteLivedIntangibleAssetsTableTextBlock",
+            "id": "Tag906",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\nIntangible assets consist\u00a0of the following:\u00a0\n\n\n\n\n\n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n June 30, 2021 \n\n\n \u00a0 \n\n\n December 31, 2020 \n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n GrossCarryingAmount \n\n\n\n AccumulatedAmortization \n\n\n\n Net \n\n\n\n GrossCarryingAmount \n\n\n\n AccumulatedAmortization \n\n\n\n Net \n\n\n\n\n Patents \n\n\n \u00a0 \n\n\n $ \n\n\n 1,991 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n(1,628\n\n)\n\n \u00a0 \n\n\n $ \n\n\n 363 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 1,832 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n(1,542\n\n)\n\n \u00a0 \n\n\n $ \n\n\n 290 \n\n\n \u00a0 \n\n\n\n\n Software \n\n\n \u00a0 \n\n\n 206 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(206\n\n)\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 206 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(200\n\n)\n\n \u00a0 \n\n\n 6 \n\n\n \u00a0 \n\n\n\n\n Marketing\u00a0assets\u00a0and\u00a0customer\u00a0relationships \n\n\n \u00a0 \n\n\n 86 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(66\n\n)\n\n \u00a0 \n\n\n 20 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n 101 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(72\n\n)\n\n \u00a0 \n\n\n 29 \n\n\n \u00a0 \n\n\n\n\n \u00a0 \u00a0\u00a0Total intangible assets \n\n\n \u00a0 \n\n\n $ \n\n\n 2,283 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n(1,900\n\n)\n\n \u00a0 \n\n\n $ \n\n\n 383 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 2,139 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n(1,814\n\n)\n\n \u00a0 \n\n\n $ \n\n\n 325 \n\n\n \u00a0 \n\n\n\n\n\n\n\n\n\n"
+    },
+    "65": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:FiniteLivedIntangibleAssetsAmortizationExpenseTableTextBlock",
+            "id": "Tag328",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\nAmortization expense in the three and six months ended June 30, 2021 and\u00a0June 30, 2020\u00a0was as follows:\u00a0\u00a0\n\n\n\n\n\n\n\n\n\n \u00a0 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \u00a0 \n\n\nThree Months Ended June 30,\n\nSix Months Ended June 30,\n\n\n\n (In thousands) \n\n\n2021\n\n2020\n\n2021\n\n2020\n\n\n\n Patents \n\n\n$\n44\n\n\n$\n35\n\n\n$\n87\n\n\n$\n73\n\n\n\n\n Software \n\n\n\n\u2014\n\n\n\n7\n\n\n\n6\n\n\n\n15\n\n\n\n\n Marketing assets and customer relationships \n\n\n\n2\n\n\n\n3\n\n\n\n4\n\n\n\n5\n\n\n\n\n \u00a0 \u00a0 Total amortization expense \n\n\n$\n46\n\n\n$\n45\n\n\n$\n97\n\n\n$\n93\n\n\n\n\n\n\n\n\n\n"
+    },
+    "66": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ConcentrationRiskDisclosureTextBlock",
+            "id": "Tag598",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n11. REVENUE CONCENTRATIONS, SIGNIFICANT CUSTOMERS AND GEOGRAPHIC AREAS:\n\n\n\nThe following summarizes our revenue by product line:\n\n\n\n\n\n\n\n\n\n\nThree Months Ended June 30,\n\nSix Months Ended June 30,\n\n\n(In thousands)\n\n2021\n\n2020\n\n2021\n\n2020\n\n\n\nHigh Precision 3D and 2D Sensors \n\n\n$\n7,131\n\n\n$\n4,745\n\n\n$\n13,488\n\n\n$\n8,867\n\n\n\n\n Inspection and Metrology Systems \n\n\n\n12,581\n\n\n\n7,661\n\n\n\n18,920\n\n\n\n16,022\n\n\n\n\n Semiconductor Sensors\u00a0 \u00a0 \n\n\n\n5,492\n\n\n\n3,590\n\n\n\n10,528\n\n\n\n7,536\n\n\n\nTotal\n\n$\n25,204\n\n\n$\n15,996\n\n\n$\n42,936\n\n\n$\n32,425\n\n\n\n\n\n\n\n\n\n\nIn the\u00a0six months ended June 30, 2021,\u00a0sales to significant customer A accounted for\u00a019% of our total revenues. As of\u00a0June 30, 2021, accounts receivable from significant customer A were $2.4\u00a0million.\n\nExport revenues as a percentage of total revenues in the three and six months ended June 30, 2021 were\u00a084% and 83%, respectively. Export revenues as a percentage of total revenues in the three and six months ended June 30, 2020 were\u00a084% and 78%, respectively. Export revenues are attributed to the country where the product is shipped. Substantially all of our export revenues are negotiated, invoiced and paid in U.S. dollars. Export revenues by geographic area are summarized as follows:\n\n\n\n\n\n\n\n \u00a0 \n\n\u00a0\nThree Months Ended June 30,\n\nSix Months Ended June 30,\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n2021\n\n2020\n\n2021\n\n2020\n\n\n\n Americas\u00a0 \n\n\n \u00a0 \n\n$\n741\n\n\n$\n97\n\n\n$\n1,524\n\n\n$\n497\n\n\n\n\n Europe \n\n\n \u00a0 \n\n\n3,017\n\n\n\n2,369\n\n\n\n6,518\n\n\n\n4,472\n\n\n\nChina\n\n\n8,545\n\n\n\n3,954\n\n\n\n13,709\n\n\n\n7,834\n\n\n\nTaiwan\n\n\n943\n\n\n\n763\n\n\n\n1,673\n\n\n\n2,479\n\n\n\n\n Other Asia \n\n\n \u00a0 \n\n\n7,541\n\n\n\n5,449\n\n\n\n11,683\n\n\n\n9,129\n\n\n\n\n Other \n\n\n \u00a0 \n\n\n428\n\n\n\n742\n\n\n\n577\n\n\n\n742\n\n\n\n\n Total export sales \n\n\n \u00a0 \n\n$\n21,215\n\n\n$\n13,374\n\n\n$\n35,684\n\n\n$\n25,153\n\n\n\n\n\n"
+    },
+    "67": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ScheduleOfProductInformationTableTextBlock",
+            "id": "Tag490",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\nThe following summarizes our revenue by product line:\n\n\n\n\n\n\n\n\n\n\nThree Months Ended June 30,\n\nSix Months Ended June 30,\n\n\n(In thousands)\n\n2021\n\n2020\n\n2021\n\n2020\n\n\n\nHigh Precision 3D and 2D Sensors \n\n\n$\n7,131\n\n\n$\n4,745\n\n\n$\n13,488\n\n\n$\n8,867\n\n\n\n\n Inspection and Metrology Systems \n\n\n\n12,581\n\n\n\n7,661\n\n\n\n18,920\n\n\n\n16,022\n\n\n\n\n Semiconductor Sensors\u00a0 \u00a0 \n\n\n\n5,492\n\n\n\n3,590\n\n\n\n10,528\n\n\n\n7,536\n\n\n\nTotal\n\n$\n25,204\n\n\n$\n15,996\n\n\n$\n42,936\n\n\n$\n32,425\n\n\n\n\n\n\n\n\n"
+    },
+    "68": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ScheduleOfRevenueFromExternalCustomersAttributedToForeignCountriesByGeographicAreaTextBlock",
+            "id": "Tag472",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n\n\n\n\n\n \u00a0 \n\n\u00a0\nThree Months Ended June 30,\n\nSix Months Ended June 30,\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n2021\n\n2020\n\n2021\n\n2020\n\n\n\n Americas\u00a0 \n\n\n \u00a0 \n\n$\n741\n\n\n$\n97\n\n\n$\n1,524\n\n\n$\n497\n\n\n\n\n Europe \n\n\n \u00a0 \n\n\n3,017\n\n\n\n2,369\n\n\n\n6,518\n\n\n\n4,472\n\n\n\nChina\n\n\n8,545\n\n\n\n3,954\n\n\n\n13,709\n\n\n\n7,834\n\n\n\nTaiwan\n\n\n943\n\n\n\n763\n\n\n\n1,673\n\n\n\n2,479\n\n\n\n\n Other Asia \n\n\n \u00a0 \n\n\n7,541\n\n\n\n5,449\n\n\n\n11,683\n\n\n\n9,129\n\n\n\n\n Other \n\n\n \u00a0 \n\n\n428\n\n\n\n742\n\n\n\n577\n\n\n\n742\n\n\n\n\n Total export sales \n\n\n \u00a0 \n\n$\n21,215\n\n\n$\n13,374\n\n\n$\n35,684\n\n\n$\n25,153\n\n\n\n\n"
+    },
+    "69": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:EarningsPerShareTextBlock",
+            "id": "Tag564",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n12. NET INCOME PER SHARE:\u00a0\u00a0\n\nNet income per basic share is computed by dividing net income by the weighted average number of common shares outstanding during the period. Net income per diluted share is computed by dividing net income by the weighted average number of common and common equivalent shares outstanding during the period. Common equivalent shares consist of common shares to be issued upon exercise of stock options, vesting of restricted stock units, vesting of restricted shares and from purchases of shares under our Employee Stock Purchase Plan, as calculated using the treasury stock method. Common equivalent shares are excluded from the calculation of net income per diluted share if their effect is anti-dilutive. The components of net income per basic and diluted share were as follows:\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n (In thousands except per share amounts) \n\n\n \u00a0 \n\n\n Net Income \n\n\n \u00a0 \n\n\nWeighted AverageShares Outstanding\n\n\n \u00a0 \n\n\n Per Share Amount \n\n\n\n\n Three Months Ended June 30, 2021 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n Basic \n\n\n \u00a0 \n\n\n $ \n\n\n3,109\n\n\n\n \u00a0 \n\n\n7,299\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n0.43\n\n\n\n\n\n Dilutive effect of common equivalent shares \n\n\n \u00a0 \n\n\n \u2014 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n218\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(0.02\n\n)\n\n\n\n Dilutive \n\n\n \u00a0 \n\n\n $ \n\n\n3,109\n\n\n\n \u00a0 \n\n\n7,517\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n0.41\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n (In thousands except per share amounts)\u00a0 \n\n\n \u00a0 \n\n\n Net Income \n\n\n \u00a0 \n\n\nWeighted AverageShares Outstanding\n\n\n \u00a0 \n\n\n Per Share Amount \n\n\n\n\n Three Months Ended June 30, 2020 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n Basic \n\n\n \u00a0 \n\n\n $ \n\n\n1,633\n\n\n\n \u00a0 \n\n\n7,198\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 0.23 \n\n\n\n\n\n Dilutive effect of common equivalent shares \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n249\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(0.01\n\n)\n\n\n\n Dilutive\u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n1,633\n\n\n\n \u00a0 \n\n\n7,447\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n 0.22 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n16\n\n\n\n\n\n\n\n\n\n\n\n\n (In thousands except per share amounts)\u00a0 \n\n\n \u00a0 \n\n\n Net Income \n\n\n \u00a0 \n\n\nWeighted AverageShares Outstanding\n\n\n \u00a0 \n\n\n Per Share Amount \n\n\n\n\n Six Months Ended June 30, 2021\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n Basic \n\n\n \u00a0 \n\n\n $ \n\n\n4,550\n\n\n\n \u00a0 \n\n\n7,296\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n0.62\n\n\n\n\n\n Dilutive effect of common equivalent shares \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n194\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(0.01\n\n)\n\n\n\n Dilutive \n\n\n \u00a0 \n\n\n $ \n\n\n4,550\n\n\n\n \u00a0 \n\n\n7,490\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n0.61\n\n\n\n\n\n\n\n\n\n\n\n\n (In thousands except per share amounts)\u00a0 \n\n\n \u00a0 \n\n\n Net Income \n\n\n \u00a0 \n\n\nWeighted AverageShares Outstanding\n\n\n \u00a0 \n\n\n Per Share Amount \n\n\n\n\n Six Months Ended June 30, 2020 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n \u00a0 \n\n\n\n\n Basic \n\n\n \u00a0 \n\n\n $ \n\n\n2,477\n\n\n\n \u00a0 \n\n\n7,177\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n0.35\n\n\n\n\n\n Dilutive effect of common equivalent shares \n\n\n \u00a0 \n\n\n\u2014\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n230\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n(0.02\n\n)\n\n\n\n Dilutive \n\n\n \u00a0 \n\n\n $ \n\n\n2,477\n\n\n\n \u00a0 \n\n\n7,407\n\n\n \u00a0 \n\n\n \u00a0 \n\n\n $ \n\n\n0.33\n\n\n\n\n\n\n\n\n\n\n\n\n\nPotentially dilutive shares consist of stock options, restricted stock units, restricted shares and purchases of shares under our Employee Stock Purchase Plan. Potentially dilutive shares excluded from the calculations of net income per diluted share due to their anti-dilutive effect were as follows: 47,000\u00a0shares in the\u00a0three months ended June 30, 2021; 72,000\u00a0shares in the\u00a0six months ended June 30, 2021;\u00a034,000\u00a0shares in the\u00a0three months ended June 30, 2020;\u00a0and\u00a089,000\u00a0shares in the\u00a0six months ended June 30, 2020.\n"
+    },
+    "70": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ScheduleOfEarningsPerShareBasicAndDilutedTableTextBlock",
+            "id": "Tag903",
+            "escape": "true",
+            "continuedat": "cc83a412b-72e3-4c35-8466-1fd5693b1f92"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "The components of net income per basic and diluted share were as follows:"
+    },
+    "71": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ComprehensiveIncomeNoteTextBlock",
+            "id": "Tag310",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n13. OTHER COMPREHENSIVE INCOME (LOSS):\n\nChanges in components of other comprehensive income (loss) and taxes related to items of other comprehensive income (loss) are as follows:\u00a0\u00a0\n\n\n\n\n\n\n\n\n\n\n\nThree Months Ended June 30, 2021\n\n\u00a0\nThree Months Ended June 30, 2020\n\n\n(In thousands)\n\nBefore Tax\n\nTax Effect\n\u00a0\nNet of Tax\u00a0Amount\n\u00a0\nBefore Tax\n\u00a0\nTax Effect\n\u00a0\nNet of Tax\u00a0Amount\n\n\nForeign currency translation adjustments\n\n$\n20\n\n\n$\n\u2014\n\n\u00a0\n$\n20\n\n\u00a0\n$\n154\n\n\u00a0\n$\n\u2014\n\n\u00a0\n$\n154\n\n\n\nUnrealized gains (losses) on available-for-sale securities\u00a0\n\n\u00a0\n(52\n)\n\n\u00a0\n11\n\n\u00a0\n\u00a0\n(41\n)\n\u00a0\n\u00a0\n121\n\n\u00a0\n\u00a0\n(25\n)\n\u00a0\n\u00a0\n96\n\n\n\nOther comprehensive income (loss)\u00a0\n\u00a0\n$\n(32\n)\n\u00a0\n$\n11\n\n\u00a0\n$\n(21\n)\n\u00a0\n$\n275\n\n\u00a0\n$\n(25\n)\n\u00a0\n$\n250\n\n\n\n\n\n\n\n\n\n\n\n\nSix Months Ended June 30, 2021\n\n\u00a0\nSix Months Ended June 30, 2020\n\n\n(In thousands)\n\nBefore Tax\n\nTax Effect\n\u00a0\nNet of Tax\u00a0Amount\n\u00a0\nBefore Tax\n\u00a0\nTax Effect\n\u00a0\nNet of Tax\u00a0Amount\n\n\nForeign currency translation adjustments\n\n$\n(127\n)\n\n$\n\u2014\n\n\u00a0\n$\n(127\n)\n\u00a0\n$\n(446\n)\n\u00a0\n$\n\u2014\n\n\u00a0\n$\n(446\n)\n\n\nUnrealized gains (losses) on available-for-sale securities\n\n\u00a0\n(124\n)\n\n\u00a0\n26\n\n\u00a0\n\u00a0\n(98\n)\n\u00a0\n\u00a0\n261\n\n\u00a0\n\u00a0\n(55\n)\n\u00a0\n\u00a0\n206\n\n\n\nOther comprehensive loss\n\u00a0\n$\n(251\n)\n\u00a0\n$\n26\n\n\u00a0\n$\n(225\n)\n\u00a0\n$\n(185\n)\n\u00a0\n$\n(55\n)\n\u00a0\n$\n(240\n)\n\n\n\n\n\n\n\n\n\n\nAt June 30, 2021\u00a0and 2020, components of accumulated other comprehensive loss is as follows:\u00a0\n\n\n\n\n\n\n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n ForeignCurrencyTranslationAdjustments \n\n\n \u00a0 \n\n\n Available- for-SaleSecurities \n\n\n \u00a0 \n\n\n AccumulatedOtherComprehensiveLoss \n\n\n\n\n Balances at December 31, 2020 \n\n\n \u00a0 \n\n\n $ \n\n\n(1,285\n\n)\n\n \u00a0 \n\n\n $ \n\n\n183\n\n\n\n \u00a0 \n\n\n $ \n\n\n(1,102\n\n)\n\n\n\n Other comprehensive loss for the six months ended June 30, 2021\n\n\n\n\n\n(127\n\n)\n\n \u00a0 \n\n\n(98\n\n)\n\n\n(225\n\n)\n\n\n\n Balances at\u00a0June 30, 2021 \n\n\n \u00a0 \n\n\n $ \n\n\n(1,412\n\n)\n\n \u00a0 \n\n\n $ \n\n\n85\n\n\n\n \u00a0 \n\n\n $ \n\n\n(1,327\n\n)\n\n\n\n\n\n\n\n\n\n\n\n\n17\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n ForeignCurrencyTranslationAdjustments \n\n\n \u00a0 \n\n\n Available- for-SaleSecurities \n\n\n \u00a0 \n\n\n AccumulatedOtherComprehensiveLoss \n\n\n\n\n Balances at December 31, 2019\n\n\n \u00a0 \n\n\n $ \n\n\n (1,475 \n\n\n ) \n\n\n \u00a0 \n\n\n $ \n\n\n69\n\n\n\n \u00a0 \n\n\n $ \n\n\n (1,406 \n\n\n ) \n\n\n\n\n Other comprehensive loss for the\u00a0six months ended June 30, 2020\n\n\n \u00a0 \n\n\n(446\n\n)\n\n \u00a0 \n\n\n206\n\n\n\n \u00a0 \n\n\n(240\n\n)\n\n\n\n Balances at\u00a0June 30, 2020 \n\n\n \u00a0 \n\n\n $ \n\n\n (1,921 \n\n\n ) \n\n\n \u00a0 \n\n\n $ \n\n\n275\n\n\n\n \u00a0 \n\n\n $ \n\n\n (1,646 \n\n\n ) \n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "72": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeTableTextBlock",
+            "id": "Tag471",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n\n\n\n\n\n\n\n\n\nThree Months Ended June 30, 2021\n\n\u00a0\nThree Months Ended June 30, 2020\n\n\n(In thousands)\n\nBefore Tax\n\nTax Effect\n\u00a0\nNet of Tax\u00a0Amount\n\u00a0\nBefore Tax\n\u00a0\nTax Effect\n\u00a0\nNet of Tax\u00a0Amount\n\n\nForeign currency translation adjustments\n\n$\n20\n\n\n$\n\u2014\n\n\u00a0\n$\n20\n\n\u00a0\n$\n154\n\n\u00a0\n$\n\u2014\n\n\u00a0\n$\n154\n\n\n\nUnrealized gains (losses) on available-for-sale securities\u00a0\n\n\u00a0\n(52\n)\n\n\u00a0\n11\n\n\u00a0\n\u00a0\n(41\n)\n\u00a0\n\u00a0\n121\n\n\u00a0\n\u00a0\n(25\n)\n\u00a0\n\u00a0\n96\n\n\n\nOther comprehensive income (loss)\u00a0\n\u00a0\n$\n(32\n)\n\u00a0\n$\n11\n\n\u00a0\n$\n(21\n)\n\u00a0\n$\n275\n\n\u00a0\n$\n(25\n)\n\u00a0\n$\n250\n\n\n\n\n\n\n\n\n\n\n\n\nSix Months Ended June 30, 2021\n\n\u00a0\nSix Months Ended June 30, 2020\n\n\n(In thousands)\n\nBefore Tax\n\nTax Effect\n\u00a0\nNet of Tax\u00a0Amount\n\u00a0\nBefore Tax\n\u00a0\nTax Effect\n\u00a0\nNet of Tax\u00a0Amount\n\n\nForeign currency translation adjustments\n\n$\n(127\n)\n\n$\n\u2014\n\n\u00a0\n$\n(127\n)\n\u00a0\n$\n(446\n)\n\u00a0\n$\n\u2014\n\n\u00a0\n$\n(446\n)\n\n\nUnrealized gains (losses) on available-for-sale securities\n\n\u00a0\n(124\n)\n\n\u00a0\n26\n\n\u00a0\n\u00a0\n(98\n)\n\u00a0\n\u00a0\n261\n\n\u00a0\n\u00a0\n(55\n)\n\u00a0\n\u00a0\n206\n\n\n\nOther comprehensive loss\n\u00a0\n$\n(251\n)\n\u00a0\n$\n26\n\n\u00a0\n$\n(225\n)\n\u00a0\n$\n(185\n)\n\u00a0\n$\n(55\n)\n\u00a0\n$\n(240\n)\n\n\n\n\n\n\n\n"
+    },
+    "73": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:ScheduleOfAccumulatedOtherComprehensiveIncomeLossTableTextBlock",
+            "id": "Tag847",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\nAt June 30, 2021\u00a0and 2020, components of accumulated other comprehensive loss is as follows:\u00a0\n\n\n\n\n\n\n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n ForeignCurrencyTranslationAdjustments \n\n\n \u00a0 \n\n\n Available- for-SaleSecurities \n\n\n \u00a0 \n\n\n AccumulatedOtherComprehensiveLoss \n\n\n\n\n Balances at December 31, 2020 \n\n\n \u00a0 \n\n\n $ \n\n\n(1,285\n\n)\n\n \u00a0 \n\n\n $ \n\n\n183\n\n\n\n \u00a0 \n\n\n $ \n\n\n(1,102\n\n)\n\n\n\n Other comprehensive loss for the six months ended June 30, 2021\n\n\n\n\n\n(127\n\n)\n\n \u00a0 \n\n\n(98\n\n)\n\n\n(225\n\n)\n\n\n\n Balances at\u00a0June 30, 2021 \n\n\n \u00a0 \n\n\n $ \n\n\n(1,412\n\n)\n\n \u00a0 \n\n\n $ \n\n\n85\n\n\n\n \u00a0 \n\n\n $ \n\n\n(1,327\n\n)\n\n\n\n\n\n\n\n\n\n\n\n\n17\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n (In thousands) \n\n\n \u00a0 \n\n\n ForeignCurrencyTranslationAdjustments \n\n\n \u00a0 \n\n\n Available- for-SaleSecurities \n\n\n \u00a0 \n\n\n AccumulatedOtherComprehensiveLoss \n\n\n\n\n Balances at December 31, 2019\n\n\n \u00a0 \n\n\n $ \n\n\n (1,475 \n\n\n ) \n\n\n \u00a0 \n\n\n $ \n\n\n69\n\n\n\n \u00a0 \n\n\n $ \n\n\n (1,406 \n\n\n ) \n\n\n\n\n Other comprehensive loss for the\u00a0six months ended June 30, 2020\n\n\n \u00a0 \n\n\n(446\n\n)\n\n \u00a0 \n\n\n206\n\n\n\n \u00a0 \n\n\n(240\n\n)\n\n\n\n Balances at\u00a0June 30, 2020 \n\n\n \u00a0 \n\n\n $ \n\n\n (1,921 \n\n\n ) \n\n\n \u00a0 \n\n\n $ \n\n\n275\n\n\n\n \u00a0 \n\n\n $ \n\n\n (1,646 \n\n\n ) \n\n\n\n\n\n\n\n\n\n"
+    },
+    "74": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:IncomeTaxDisclosureTextBlock",
+            "id": "Tag130",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n14. INCOME TAXES:\n\nWe recorded income tax expense of $590,000 in the three months ended June 30, 2021, compared to an income tax benefit of $96,000 in the three months ended June 30, 2020. We recorded income tax expense of $901,000 in the six months ended June 30, 2021, compared to income tax expense of $53,000 in the six months ended June 30, 2020. Our income tax expense in the six months ended June 30, 2021 reflected an effective tax rate of approximately 17%, compared to an effective tax rate of approximately 2% in the six months ended June 30, 2020. The increase in effective income tax rate in both the three and six months ended June 30, 2021, when compared to the three and six months ended June 30, 2020, was mainly due to a significant reduction in excess tax benefits from employee stock option exercises. Excess tax benefits in the three and six months ended June 30, 2021 were negligible, compared to excess tax benefits in the three and six months ended June 30, 2020 of $340,000 and $356,000, respectively. On a recurring basis, our effective income tax rate is favorably impacted by the U.S. federal R&D tax credit, foreign tax credit and the impact from Foreign Derived Intangible Income (FDII) and Global Intangible Low-Taxed Income (GILTI).\n\nWe have significant deferred tax assets as a result of temporary differences between taxable income on our tax returns and U.S.\u00a0GAAP income, R&D tax credit carry forwards and state net operating loss carry forwards. A deferred tax asset generally represents future tax benefits to be received when temporary differences previously reported in our consolidated financial statements become deductible for income tax purposes, when net operating loss carry forwards could be applied against future taxable income, or when tax credit carry forwards are utilized on our tax returns. We assess the\u00a0realizability\u00a0of our deferred tax assets and the need for a valuation allowance based on the guidance provided in current financial accounting standards.\u00a0 \u00a0\n\nSignificant judgment is required in determining the realizability of our deferred tax assets. The assessment of whether valuation allowances are required considers, among other matters, the nature, frequency and severity of any current and cumulative losses, forecasts of future profitability, the duration of statutory carry forward periods, our experience with loss carry forwards not expiring unused and tax planning alternatives. In analyzing the need for valuation allowances, we first considered our history of cumulative operating results for income tax purposes over the past three years in each of the tax jurisdictions in which we operate, our financial performance in recent quarters, statutory carry forward periods and tax planning alternatives. In addition, we considered both our near-term and long-term financial outlook. After considering all available evidence (both positive and negative), we concluded that recognition of valuation allowances for substantially all of our U.S. and Singapore based deferred tax assets was not required at June 30, 2021 or December 31, 2020.\n\nThe Inland Revenue Authority of Singapore has initiated a routine compliance review of our\u00a02018\u00a0income tax return.\u00a0We presently anticipate that the outcome of this audit will not have a significant impact on our financial position or results of operations.\u00a0\u00a0\n"
+    },
+    "75": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "cybe:NeedForValuationAllowanceBasedOnHistoryOfCumulativeLosses",
+            "id": "Tag21",
+            "format": "ixt-sec:durwordsen"
+        },
+        "contents_pattern": [
+            "NavigableString"
+        ],
+        "text": "three years"
+    },
+    "76": {
+        "attrs": {
+            "contextref": "D20210630",
+            "name": "us-gaap:CommitmentsAndContingenciesDisclosureTextBlock",
+            "id": "Tag159",
+            "escape": "true"
+        },
+        "contents_pattern": [
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString",
+            "Tag",
+            "NavigableString"
+        ],
+        "text": "\n15. CONTINGENCIES:\u00a0\n\nWe are periodically a defendant in miscellaneous lawsuits, claims and disputes in the ordinary course of business. While the outcome of these matters cannot be predicted with certainty, management presently believes the disposition of these matters will not have a material effect on our financial position, results of operations or cash flows.\u00a0\n\nIn the normal course of business to facilitate sales of our products and services, we at times indemnify other parties, including customers, with respect to certain matters. In these instances, we have agreed to hold the other parties harmless against losses arising out of intellectual property infringement or other types of claims. These agreements may limit the time within which an indemnification claim can be made, and almost always limits the amount of the claim. It is not possible to determine the maximum potential amount of exposure under these indemnification agreements due to the limited history of prior indemnification claims and the unique facts and circumstances involved in each particular agreement. Historically, payments made, if any, under these agreements have not had a material impact on our operating results, financial position or cash flows. However, there can be no assurance that intellectual property infringement and other claims against us or parties we have indemnified will not have a greater impact in the future.\n"
+    }
+}

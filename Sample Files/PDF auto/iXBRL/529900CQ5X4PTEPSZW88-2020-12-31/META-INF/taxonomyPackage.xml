@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--Created by Sigma Conso, Powered by IRIS Carbon-->
+<tp:taxonomyPackage xmlns:tp="http://xbrl.org/2016/taxonomy-package" xml:lang="en" xmlns:xsi="http://www.3w.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2016/taxonomy-package http://www.xbrl.org/2016/taxonomy-package.xsd">
+  <tp:identifier>http://www.bpost.be/xbrl/2020</tp:identifier>
+  <tp:name>bpost XBRL Taxonomy 2020 </tp:name>
+  <tp:description>Taxonomy for ESEF reporting</tp:description>
+  <tp:version>Final</tp:version>
+  <tp:publisher>bpost</tp:publisher>
+  <tp:publisherURL>http://www.bpost.be</tp:publisherURL>
+  <tp:publisherCountry>BE</tp:publisherCountry>
+  <tp:publicationDate>2021-03-31</tp:publicationDate>
+  <tp:entryPoints>
+    <tp:entryPoint>
+      <tp:name>bpost XBRL Taxonomy 2020 Entry point</tp:name>
+      <tp:description>Entry point to be used to load bpost XBRL Taxonomy and Annual Report for 2020</tp:description>
+      <tp:entryPointDocument href="http://www.bpost.be/xbrl/2020/529900CQ5X4PTEPSZW88-2020-12-31.xsd" />
+      <tp:languages>
+        <tp:language>en</tp:language>
+      </tp:languages>
+    </tp:entryPoint>
+  </tp:entryPoints>
+</tp:taxonomyPackage>

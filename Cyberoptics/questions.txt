@@ -1,0 +1,28 @@
+
+
+
+Do we get the metadata in excel along with HTML document? or do we have to generate it? or do we get initial reference for
+this information in excel and we have to extract all the information similar to that and embed the same in the HTML
+document.
+
+
+Do we have to extract tables? If yes what is the significance?
+
+
+
+Do we have similar layout structure for these documnets? how much vary
+
+Do we have PDFs instead of HTML? If yes how many? We prefer HTML. Should we expect other types of doc like .dox, .txt, Scanned ?
+
+
+
+
+Are you expecting the revelancy of element names with different section of the text. 
+Like should we look for one to many mapping for the given element name?
+
+
+How many documents we have?
+
+Are you expecting an API endpoint for this feature extraction where if client provide HTML doc, 
+api will detect iXBRL information for the given HTML dcoument and the excel and add the capabilities in api 
+to mark all information similar to excel using some textual processing?
